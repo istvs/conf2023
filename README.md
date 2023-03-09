@@ -82,8 +82,8 @@ Paweł Tomiło
 ### Scientific committee
 
 Jarosław Pytka, _Chair_\
-Piotr Budzyński, Poland\
 Dariusz Błażejczak, Poland\
+Piotr Budzyński, Poland\
 Schalk Els, South Africa\
 Rámon Gonzalez, Spain\
 Rainer Horn, Germany\

@@ -82,11 +82,15 @@ Paweł Tomiło
 ### Scientific committee
 
 Jarosław Pytka, _Chair_\
-Corina Sandu, U.S.A.\
+Piotr Budzyński, Poland\
+Dariusz Błażejczak, Poland\
+Schalk Els, South Africa\
 Rámon Gonzalez, Spain\
-Rainer Hord, Germany\
+Rainer Horn, Germany\
 Heidi R. Howard, U.S.A.\
 Genya Ishigami, Japan\
+Jerzy Józwik, Poland\
+Thomas Keller, Sweden\
 Peter Kiss, Hungary\
 József Kövecses, Canada\
 George Mason, U.S.A.\
@@ -94,6 +98,10 @@ Hiroshi Nakashima, Japan\
 Massimo Martelli, Italy\
 Parish Nalavade, India\
 Lutz Richter, Germany\
-Schalk Els, South Africa\
+Dror Rubinstein, Israel\
+Vilas M. Salokhe, India\
+Corina Sandu, U.S.A.\
+Przemysław Simiński, Poland\
 Thomas R. Way, U.S.A.\
 Vladimir Vantsevich, U.S.A.\
+Artur Zdunek, Poland\

@@ -10,6 +10,8 @@ coverY: 0
 
 [Lublin University of Technology](https://pollub.pl/) is the largest technical university in the region of eastern Poland. It has a 70-year tradition and consists of six faculties.
 
+{% embed url="https://youtu.be/sCZPqHJFxes" %}
+
 [The Faculty of Mechanical Engineering](https://wm.pollub.pl/) strives to carry out scientific research at the highest level, aimed at the needs of industry, enabling its employees and doctoral students to develop comprehensively, based on the best standards, equipment, tools and methods.
 
 The mission of the Faculty of Mechanical Engineering is interdisciplinary education of students in a way that ensures the acquisition of knowledge and skills to create creative solutions, in conjunction with science, technical development, in cooperation with the economy and society and in accordance with the best international standards and the level of modern civilization.

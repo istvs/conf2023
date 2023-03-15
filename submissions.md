@@ -41,7 +41,8 @@ The conference includes the following thematic tracks:
 
 ### **Submission platform**
 
-As in previous years, the conference submission platform is EasyChair. If you’ve participated in a recent ISTVS conference, you can log in with your existing account to submit. If you’re new to ISTVS conferences, use the _Create an account_ link on the login page to get started. **Login page:** [**https://easychair.org/conferences/?conf=istvs2023**](https://easychair.org/conferences/?conf=istvs2023)****
+As in previous years, the conference submission platform is [EasyChair](https://easychair.org/conferences/?conf=istvs2023). If you’ve participated in a recent ISTVS conference, you will be able to log in with your existing account. If you’re new to ISTVS conferences, use the _Create an account_ link on the login page to get started. \
+**Access here:** [**https://easychair.org/conferences/?conf=istvs2023**](https://easychair.org/conferences/?conf=istvs2023)****
 
 <figure><img src=".gitbook/assets/Xnapper-2023-02-13-15.05.04-9165290C-0EAB-4BE2-AB6D-7CCBF315C5BD.png" alt=""><figcaption><p>Submissions login page for ISTVS 2023</p></figcaption></figure>
 

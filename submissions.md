@@ -49,7 +49,7 @@ As in previous years, the conference submission platform is EasyChair. If you’
 
 All submissions must comply with the conference templates. Please carefully follow the guidelines provided. Right-click the links below to download:
 
-Template for Abstract _// use the EasyChair submission form_\
+Template for Abstract _// use_ [_EasyChair submission form_](https://easychair.org/conferences/?conf=istvs2023)\
 Template for Full Paper _// will be posted soon_\
 Template for Presentation _// will be posted soon_
 

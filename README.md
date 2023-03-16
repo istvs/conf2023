@@ -7,6 +7,11 @@ coverY: 0
 # 16th European-African Regional Conference of the ISTVS
 
 {% hint style="info" %}
+**Thu 2023-03-16 Update**\
+****Submissions deadline now extended to Thu 2023-03-30. [Submit here](https://easychair.org/conferences/?conf=istvs2023).
+{% endhint %}
+
+{% hint style="info" %}
 #### Conference updates | Thu 2023-03-09
 
 We are excited about two conference updates\
@@ -15,7 +20,8 @@ We are excited about two conference updates\
 \
 **Pre-conference short course — Elements of off-road vehicle design, dynamics, and terramechanics** // The Lublin conference committee has scheduled a one-day technical course to precede the conference, on October 10. Confirmed presentation on _Off-Road Vehicle Design Fundamentals_ by [Dr. Zbigniew Kiernicki](https://scholar.google.com/scholar?hl=pl\&as\_sdt=2007\&as\_vis=1\&q=Zbigniew+kiernicki\&btnG=), Lublin University of Technology, Poland, and other presenters to be announced.\
 \
-**Deadline for submissions** // Next week, March 15. [Submit now](https://easychair.org/conferences/?conf=istvs2023).
+~~**Deadline for submissions** // Next week, March 15.~~ [~~Submit now~~](https://easychair.org/conferences/?conf=istvs2023)~~.~~\
+~~~~Deadline for submissions now Thu 2023-03-30 _(updated Thu 2023-03-16)_
 {% endhint %}
 
 <div>

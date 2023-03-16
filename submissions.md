@@ -6,6 +6,11 @@ coverY: 0
 
 # Submissions
 
+{% hint style="info" %}
+_Thu 2023-03-16 Update_\
+__Submissions deadline now extended to Thu 2023-03-30. [Submit here](https://easychair.org/conferences/?conf=istvs2023).
+{% endhint %}
+
 {% hint style="success" %}
 Submissions open February 14, 2023. All authors are encouraged to submit full papers. Abstracts for oral presentations may also be submitted.
 {% endhint %}
@@ -14,14 +19,14 @@ Submissions open February 14, 2023. All authors are encouraged to submit full pa
 
 The 16th European-African Regional Conference of the ISTVS welcomes original and previously unpublished research and review papers describing results of research which are relevant to the conference topics and to terrain-vehicle systems.
 
-* Authors wishing to make a submission are requested to submit an abstract by March 15, 2022.&#x20;
+* Authors wishing to make a submission are requested to submit an abstract by March 15, 2023.&#x20;
 * Abstracts are requested to be under 1800 characters and must emphasize the objectives and results.&#x20;
 * Authors may choose between two types of submissions: \
   full paper and abstract-only.&#x20;
 
 All accepted submissions of either type will be included in the conference program for an oral presentation. Only full papers will be included in the conference proceedings. If your abstract is accepted, we strongly encourage you to submit a full paper in order to be included in the published proceedings.
 
-**Review** // All abstracts will be reviewed by the conference Scientific Committee. Abstract acceptance will be notified to the corresponding author by March 15, 2022.
+**Review** // All abstracts will be reviewed by the conference Scientific Committee. Abstract acceptance will be notified to the corresponding author by March 15, 2023.
 
 ### **Technical tracks**
 

@@ -22,19 +22,18 @@ The mission of the Faculty of Mechanical Engineering is interdisciplinary educat
 
 ## Travel to Lublin, Poland
 
-* Air transfer through Warsaw (a general world connections), Rzeszów and Cracow (south connections) or directly to Lublin Airport, [https://www.lot.com](https://www.lot.com)&#x20;
-* Transfer from Warsaw: by train (approx. 2h30‘) [https://www.intercity.pl/en/](https://www.intercity.pl/en/), by coach (approx. 2hours), [https://www.flixbus.pl](https://www.flixbus.pl), [https://www.busradar.pl](https://www.busradar.pl)
+* Air transfer through Warsaw (general international connections), Rzeszów, and Cracow (south connections) or directly to Lublin Airport, [https://www.lot.com](https://www.lot.com)&#x20;
+* Transfer from Warsaw: by train (approx. 2h30m) [https://www.intercity.pl/en/](https://www.intercity.pl/en/), by coach (approx. 2h), [https://www.flixbus.pl](https://www.flixbus.pl), [https://www.busradar.pl](https://www.busradar.pl)
 
 ## Public transport in Lublin
 
-* Modern public transport network, electric buses, convenient connections;
-* Individual transport: taxi, Uber, Bolt, electric scooters network
-* Rental cars: \
-  [https://www.rentalcars.com](https://www.rentalcars.com/pl/city/pl/lublin/?affiliateCode=ggle\&preflang=pl\&label=lublin-m\_4RTyPMwzVDRay8MGD73QS263768963943\&ws=\&ppc\_placement=\&ppc\_target=\&ppc\_param1=\&ppc\_param2=\&aceid=\&adposition=\&ppc\_network=g\&feeditemid=\&ppc\_targetid=kwd-115099250687\&loc\_physical\_ms=9067423\&loc\_interest\_ms=\&ppc\_device=c\&ppc\_devicemodel=\&gclid=Cj0KCQiAlKmeBhCkARIsAHy7WVuWg3MGZFVvGopqss3yPP2T9zrduGqwZTdHOcahCoAU7UrvUREk1\_gaAt25EALw\_wcB), [https://www.ipanek.pl](https://www.ipanek.pl) , [https://www.kayak.pl](https://www.kayak.pl)&#x20;
+* Modern public transport network, electric buses, convenient connections
+* Individual transport: taxi, Uber, Bolt, electric scooter network
+* Rental cars: [https://www.rentalcars.com](https://www.rentalcars.com/pl/city/pl/lublin/?affiliateCode=ggle\&preflang=pl\&label=lublin-m\_4RTyPMwzVDRay8MGD73QS263768963943\&ws=\&ppc\_placement=\&ppc\_target=\&ppc\_param1=\&ppc\_param2=\&aceid=\&adposition=\&ppc\_network=g\&feeditemid=\&ppc\_targetid=kwd-115099250687\&loc\_physical\_ms=9067423\&loc\_interest\_ms=\&ppc\_device=c\&ppc\_devicemodel=\&gclid=Cj0KCQiAlKmeBhCkARIsAHy7WVuWg3MGZFVvGopqss3yPP2T9zrduGqwZTdHOcahCoAU7UrvUREk1\_gaAt25EALw\_wcB), [https://www.ipanek.pl](https://www.ipanek.pl), [https://www.kayak.pl](https://www.kayak.pl)&#x20;
 
 ## Hotel information—selected hotels
 
-_Times given in walking distance from conference venue._
+_Times given in walking distance from conference venue_
 
 Hotel Victoria Lublin, 10 min.\
 [https://victorialublin.pl/](https://victorialublin.pl/)
@@ -45,7 +44,7 @@ IBB Grand Hotel Lublin, 15 min.\
 Hotel Mercure Lublin, 20 min.\
 [https://mercure-lublin-centrum-hotel.at-hotels.com/pl/](https://mercure-lublin-centrum-hotel.at-hotels.com/pl/)
 
-Ibis Styles Hotel Lublin, 20 min. _<mark style="color:red;">**"Gala Dinner Venue"**</mark>_\
+<mark style="color:orange;">**Gala dinner venue:**</mark> Ibis Styles Hotel Lublin, 20 min.\
 [https://ibislublin.pl/hotel/o-hotelu](https://ibislublin.pl/hotel/o-hotelu)
 
 <figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption><p>Gala Dinner Venue</p></figcaption></figure>

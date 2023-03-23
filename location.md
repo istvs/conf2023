@@ -18,6 +18,8 @@ The mission of the Faculty of Mechanical Engineering is interdisciplinary educat
 
 <figure><img src=".gitbook/assets/LIT.png" alt=""><figcaption><p>Lublin University of Technology</p></figcaption></figure>
 
+
+
 ## Travel to Lublin, Poland
 
 * Air transfer through Warsaw (a general world connections), Rzeszów and Cracow (south connections) or directly to Lublin Airport, [https://www.lot.com](https://www.lot.com)&#x20;
@@ -43,5 +45,7 @@ IBB Grand Hotel Lublin, 15 min.\
 Hotel Mercure Lublin, 20 min.\
 [https://mercure-lublin-centrum-hotel.at-hotels.com/pl/](https://mercure-lublin-centrum-hotel.at-hotels.com/pl/)
 
-Ibis Styles Hotel Lublin, 20 min.\
+Ibis Styles Hotel Lublin, 20 min. _<mark style="color:red;">**"Gala Dinner Venue"**</mark>_\
 [https://ibislublin.pl/hotel/o-hotelu](https://ibislublin.pl/hotel/o-hotelu)
+
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption><p>Gala Dinner Venue</p></figcaption></figure>

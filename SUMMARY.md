@@ -6,4 +6,4 @@
 * [Program](program.md)
 * [Technical tour](technical-tour.md)
 * [Contact](contact.md)
-* [Publication Ethics and Malpractice Statement](publication-ethics-and-malpractice-statement.md)
+* [Publication Ethics and Malpractice Statement](publication-ethics.md)

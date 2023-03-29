@@ -7,7 +7,7 @@ layout: editorial
 
 # Publication Ethics and Malpractice Statement
 
-## Publication and authorship
+## A. Publication and authorship
 
 1. All manuscripts submitted to 16th European-African Regional Conference of the ISTVS (hereinafter the Conference) are subjected to strict peer-review process by at least two independent reviewers that are experts in the field of the submitted paper. Acceptance is based on scientific significance, originality, and clarity.
 2. The factors that are taken into account in review are relevance, soundness, significance, originality, readability, and language.
@@ -16,7 +16,7 @@ layout: editorial
 5. Rejected manuscripts will not be re-evaluated.
 6. Only manuscripts that are not tainted by libel, copyright infringement, and plagiarism are eligible to be accepted.
 
-## Authors’ responsibilities
+## B. Authors’ responsibilities
 
 1. Authors must ensure that the manuscript is entirely their original work, that the manuscript has not previously been published elsewhere, and that the manuscript is not currently being under consideration for publication elsewhere.
 2. Authors must participate in the peer review process.
@@ -26,7 +26,7 @@ layout: editorial
 6. Authors must notify the editors of any conflicts of interest.
 7. Authors must ensure that the manuscript has been proofread and corrected for clarity, grammar, and spelling of the text.
 
-## Reviewers' responsibilities
+## C. Reviewers' responsibilities
 
 1. Reviewers should respect the confidentiality of peer review and not reveal any details of a manuscript during or after the peer-review process.
 2. Reviewers should be objective and constructive, refraining from being hostile or inflammatory and from making libelous or derogatory personal comments.
@@ -36,7 +36,7 @@ layout: editorial
 6. Reviewers should bring the editor’s attention to any substantial similarity or overlap between the manuscript under consideration and any other published paper of which they have personal knowledge.
 7. Reviewers should not review manuscripts in which they have conflicts of interest resulting from competitive, collaborative, or other relationships or connections with any of the authors, companies, or institutions connected to the papers.
 
-## Editors’ responsibilities
+## D. Editors’ responsibilities
 
 1. Editors are held accountable and should take responsibility for everything they allow to be published.
 2. Editors must base their decisions solely on the papers’ importance, originality, clarity, and relevance to the conference’s scope, without regard to race, gender, sexual orientation, religious belief, ethnic origin, citizenship, or political orientation of the authors.
@@ -46,30 +46,30 @@ layout: editorial
 6. Editors must not allow any conflicts of interest between editorial staff, authors, reviewers, and editorial board members.
 7. Editors must guard the integrity of the publication by issuing corrections and retractions when needed and pursuing suspected or alleged research and publication misconduct.
 
-## Plagiarism
+## E. Plagiarism
 
-All articles submitted to the 16th European - African Regional Conference of the ISTVS must be only original material. Passing off another’s paper as the author’s own, copying or paraphrasing substantial parts of another’s paper (without attribution), or claiming results from research conducted by others are all considered to be forms of plagiarism. Plagiarism in all its forms constitutes unethical publishing behavior and is unacceptable.
+All articles submitted to the Conference must contain exclusively original research. Passing off another’s research as the author’s own, copying or paraphrasing substantial parts of another’s paper (without attribution), or claiming results from research conducted by others are all considered to be forms of plagiarism. Plagiarism in all its forms constitutes unethical publishing behavior and is unacceptable.
 
-## Duplicate Submission
+## F. Duplicate submission
 
 Authors should not submit for consideration a manuscript that has already been published in another journal or conference. Submission of a manuscript concurrently to more than one journal or conference constitutes unethical publishing behavior and is unacceptable.
 
-## Data Fabrication and Falsification
+## G. Data fabrication and falsification
 
 Authors should not include spurious data or false research results in the manuscript. Also, manipulation of the research process or the arbitrary alteration or omission of data which leads to the distortion of the contents or the results of the research should not be done.
 
-## Citation Manipulation
+## H. Citation manipulation
 
 Authors should not include citations whose primary purpose is to increase the number of citations to an author’s given article.
 
-## Improper Author Contribution or Attribution
+## I. Improper author contribution or attribution
 
 All listed authors must have made a significant scientific contribution to the study in the paper and approved all its claims. It is important to list everyone who made a significant scientific contribution, including students and laboratory technicians.
 
-## Redundant Publications
+## J. Redundant publications
 
-The artificial division of study outcomes into multiple articles, for the sole purpose of increasing the quantity of publications constitutes redundant publication, which is unethical publishing behavior and is unacceptable. Multiple papers generating from the same study can be accepted if they focus on different aspects of the study, in a sensible and meaningful way.
+The artificial division of study outcomes into multiple articles for the sole purpose of increasing the quantity of publications constitutes redundant publication is unethical publishing behavior and is unacceptable. Multiple papers generated from the same study can be accepted if they focus on different aspects of the study, in a sensible and meaningful way.
 
-## Rejection of Manuscripts
+## K. Rejection of manuscripts
 
-In case of unwillingness of the authors to cooperate with Editors (e.g. refusing to improve the manuscript as requested or not having a proper communication with the Editors) the manuscript is rejected. A manuscript is rejected also in case of plagiarism, data fabrication and falsification.
+In the case of unwillingness of the authors to cooperate with the Scientific Committee (e.g., refusing to improve the manuscript as requested or not having a proper communication with the Scientific Committee), the manuscript is rejected. A manuscript is rejected also in case of plagiarism, data fabrication, or falsification.

@@ -8,7 +8,7 @@ coverY: 0
 
 {% hint style="info" %}
 **Thu 2023-03-16 Update**\
-****Submissions deadline now extended to Thu 2023-03-30. [Submit here](https://easychair.org/conferences/?conf=istvs2023).
+Submissions deadline now extended to Thu 2023-03-30. [Submit here](https://easychair.org/conferences/?conf=istvs2023).
 {% endhint %}
 
 {% hint style="info" %}
@@ -21,7 +21,7 @@ We are excited about two conference updates\
 **Pre-conference short course — Elements of off-road vehicle design, dynamics, and terramechanics** // The Lublin conference committee has scheduled a one-day technical course to precede the conference, on October 10. Confirmed presentation on _Off-Road Vehicle Design Fundamentals_ by [Dr. Zbigniew Kiernicki](https://scholar.google.com/scholar?hl=pl\&as\_sdt=2007\&as\_vis=1\&q=Zbigniew+kiernicki\&btnG=), Lublin University of Technology, Poland, and other presenters to be announced.\
 \
 ~~**Deadline for submissions** // Next week, March 15.~~ [~~Submit now~~](https://easychair.org/conferences/?conf=istvs2023)~~.~~\
-~~~~Deadline for submissions now Thu 2023-03-30 _(updated Thu 2023-03-16)_
+Deadline for submissions now Thu 2023-03-30 _(updated Thu 2023-03-16)_
 {% endhint %}
 
 <div>
@@ -86,7 +86,7 @@ The intention of the organizers is to create a friendly atmosphere and comfortab
 
 **Jarosław Pytka**\
 _Conference chair_\
-__[Faculty of Mechanical Engineering](https://wm.pollub.pl/) | [Lublin University of Technology](https://pollub.pl/)&#x20;
+[Faculty of Mechanical Engineering](https://wm.pollub.pl/) | [Lublin University of Technology](https://pollub.pl/)&#x20;
 
 ## Organizing committee
 

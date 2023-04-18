@@ -8,7 +8,7 @@ coverY: 0
 
 {% hint style="info" %}
 _Thu 2023-03-16 Update_\
-__Submissions deadline now extended to Thu 2023-03-30. [Submit here](https://easychair.org/conferences/?conf=istvs2023).
+Submissions deadline now extended to Thu 2023-03-30. [Submit here](https://easychair.org/conferences/?conf=istvs2023).
 {% endhint %}
 
 {% hint style="success" %}
@@ -47,7 +47,7 @@ The conference includes the following thematic tracks:
 ### **Submission platform**
 
 As in previous years, the conference submission platform is [EasyChair](https://easychair.org/conferences/?conf=istvs2023). If you’ve participated in a recent ISTVS conference, you will be able to log in with your existing account. If you’re new to ISTVS conferences, use the _Create an account_ link on the login page to get started. \
-**Access here:** [**https://easychair.org/conferences/?conf=istvs2023**](https://easychair.org/conferences/?conf=istvs2023)****
+**Access here:** [**https://easychair.org/conferences/?conf=istvs2023**](https://easychair.org/conferences/?conf=istvs2023)
 
 <figure><img src=".gitbook/assets/Xnapper-2023-02-13-15.05.04-9165290C-0EAB-4BE2-AB6D-7CCBF315C5BD.png" alt=""><figcaption><p>Submissions login page for ISTVS 2023</p></figcaption></figure>
 
@@ -56,12 +56,14 @@ As in previous years, the conference submission platform is [EasyChair](https://
 All submissions must comply with the conference templates. Please carefully follow the guidelines provided. Right-click the links below to download:
 
 Template for Abstract _// use_ [_EasyChair submission form_](https://easychair.org/conferences/?conf=istvs2023)\
-Template for Full Paper _// will be posted soon_\
-Template for Presentation _// will be posted soon_
+Template for Full Paper _// posted 2023-04-18_
+
+{% file src=".gitbook/assets/ISTVS_paper_template_2023_dotx-pdf.zip" %}
+ISTVS\_paper\_template\_2023 combined .dotx and reference.pdf
+{% endfile %}
 
 _**REFERENCE PDFs**_\
-_Provided for reference since live docs often open locally with broken formatting:_\
-_Abstract // Paper // Presentation // will be posted soon_
+_Provided for reference since live docs often open locally with broken formatting._
 
 **Paper preparation** // Authors submitting a full paper must comply with the conference template and carefully follow the guidelines provided. Each full paper will be subject to peer review by reviewers selected by the Conference Scientific Committee. Each paper will be either accepted or accepted with revisions or rejected.
 

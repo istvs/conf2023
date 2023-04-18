@@ -6,12 +6,18 @@ coverY: 0
 
 # Submissions
 
-{% hint style="info" %}
+{% hint style="warning" %}
+_Tue 2023-04-18 update_\
+Paper template posted [below](submissions.md#templates)
+{% endhint %}
+
+{% hint style="success" %}
 _Thu 2023-03-16 Update_\
 Submissions deadline now extended to Thu 2023-03-30. [Submit here](https://easychair.org/conferences/?conf=istvs2023).
 {% endhint %}
 
 {% hint style="success" %}
+_Thu 2023-01-26 Update_\
 Submissions open February 14, 2023. All authors are encouraged to submit full papers. Abstracts for oral presentations may also be submitted.
 {% endhint %}
 

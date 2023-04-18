@@ -6,14 +6,18 @@ coverY: 0
 
 # 16th European-African Regional Conference of the ISTVS
 
-{% hint style="info" %}
-**Thu 2023-03-16 Update**\
-Submissions deadline now extended to Thu 2023-03-30. [Submit here](https://easychair.org/conferences/?conf=istvs2023).
+{% hint style="warning" %}
+_Tue 2023-04-18 update_\
+Paper template now available on the Submissions page [here](./#templates)
 {% endhint %}
 
-{% hint style="info" %}
-#### Conference updates | Thu 2023-03-09
+{% hint style="success" %}
+_Thu 2023-03-16 Update_\
+Submissions deadline&#x20;
+{% endhint %}
 
+{% hint style="success" %}
+_Thu 2023-03-09 Update_\
 We are excited about two conference updates\
 \
 **Technical tour** // [Military Institute of Automotive and Armour Technology](https://www.witpis.eu/pl/), Sulejówek, near Warsaw. The tour will include a short presentation, visiting outdoor laboratories, and a presentation of test stands and vehicles. The tour will be followed by a visit to [Kazimierz Dolny](https://www.kazimierz-dolny.pl/turystyka/), with an opportunity for sightseeing and dinner in a restaurant.\

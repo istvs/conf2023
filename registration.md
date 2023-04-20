@@ -26,16 +26,16 @@ To register now online by credit card, use the registration choices below to cho
 
 **Early Bird Registration before 31 July 2023**
 
-​🎟 [2023 Member Early Bird Registration | €450](https://buy.stripe.com/bIY3crbK344UegU7sz)
+​🎟 [2023 Member Early Bird Registration | EUR 450](https://buy.stripe.com/bIY3crbK344UegU7sz)
 
-​🎟 [2023 Non-Member Early Bird Registration | €550](https://buy.stripe.com/eVa6oD15pbxm2yc4gm)
+​🎟 [2023 Non-Member Early Bird Registration | EUR 550](https://buy.stripe.com/eVa6oD15pbxm2yc4gm)
 
-​🎟 [2023 Student Early Bird Registration | €200](https://buy.stripe.com/eVa9AP01l44U2yc28b)
+​🎟 [2023 Student Early Bird Registration | EUR 200](https://buy.stripe.com/eVa9AP01l44U2yc28b)
 
 **After 31 July 2023**
 
-​🎟 [2023 Member Registration | €500](https://buy.stripe.com/eVaeV9g0j6d2b4I9AC)
+​🎟 2023 Member Registration | EUR 500
 
-​🎟 [2023 Non-Member Registration | €600](https://buy.stripe.com/28o14j15p44U8WA4gk)
+​🎟 2023 Non-Member Registration | EUR 600
 
-[​🎟 2023 Student Registration | €250](https://buy.stripe.com/4gw5kzaFZ7h6b4IbIN)
+​🎟 2023 Student Registration | EUR 250

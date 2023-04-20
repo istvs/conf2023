@@ -7,6 +7,6 @@ coverY: 0
 # Program
 
 {% hint style="info" %}
-2023-03-16 | Conference program overview will be published March 23
+2023-03-16 | Conference program overview will be published April 30.
 {% endhint %}
 

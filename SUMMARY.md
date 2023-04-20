@@ -1,6 +1,7 @@
 # Table of contents
 
 * [16th European-African Regional Conference of the ISTVS](README.md)
+* [Registration](registration.md)
 * [Submissions](submissions.md)
 * [Location](location.md)
 * [Program](program.md)

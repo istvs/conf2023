@@ -58,16 +58,18 @@ Deadline for submissions now Thu 2023-03-30 _(updated Thu 2023-03-16)_
 
 ## Key dates
 
-| Date               | Events                     |
-| ------------------ | -------------------------- |
-| 14 February 2023   | Abstract submissions open  |
-| 15 March 2023      | Abstract submissions close |
-| 30 March 2023      | Authors’ notification      |
-| 30 April 2023      | Registration opens         |
-| 31 May 2023        | Full papers deadline       |
-| 30 June 2023       | Authors’ notification      |
-| 31 August 2023     | Reviewed papers deadline   |
-| 11-13 October 2023 | Conference                 |
+| Date               | Events                         |
+| ------------------ | ------------------------------ |
+| 14 February 2023   | Abstract submissions open      |
+| 15 March 2023      | Abstract submissions close     |
+| 30 March 2023      | Authors’ notification          |
+| 20 April 2023      | Registration opens             |
+| 31 May 2023        | Full papers deadline           |
+| 30 June 2023       | Authors’ notification          |
+| 31 July 2023       | Early bird registration closes |
+| 31 August 2023     | Reviewed papers deadline       |
+|  4 October 2023    | Registration closes            |
+| 11-13 October 2023 | Conference                     |
 
 ## Overview
 

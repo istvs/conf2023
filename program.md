@@ -6,7 +6,40 @@ coverY: 0
 
 # Program
 
-## 10. October 2023
+ISTVS Professional Course:\
+Design and Dynamics of Off-Road Vehicles with Emphasis to Terramechanics
+------------------------------------------------------------------------
+
+ISTVS is pleased to invite you to explore the design and dynamics of off-road vehicles, with a special emphasis on terramechanics. Three speakers, remarkable researchers, and educators will deliver 90-minute lessons on crucial aspects of vehicle design, testing, and dynamics for innovative solutions in the field of off-road dynamics, safety, and comfort. The course content has a deep reference to both classical and upcoming innovations in terramechanics.
+
+Members EUR 100. Non-members EUR 150&#x20;
+
+Number of entries is limited. Separate registration required: (link tk)
+
+### When
+
+Tuesday, October 10, 2023, 9.50 – 15.00
+
+### Where
+
+Lublin University of Technology, Faculty of Mechanical Engineering, Room M107
+
+### Schedule
+
+Welcome // 9.50 – 10.00
+
+Lesson 1 // Novel Methods in Analytical and Experimental Off-Road Vehicle Dynamics. 10.00 – 11.30\
+Schalk Els, University of Pretoria, South Africa
+
+Lesson 2 // Elements of Planetary Rover Design: Innovative Solutions for Optimal Traction on Extraterrestrial Bodies. 11.45 – 13.15\
+Lutz Richter, SoftServe, Inc., Munich, Germany
+
+Lesson 3 // New Trends in Off-Road Vehicle Design. 13.30 – 15.00\
+Zbigniew Kiernicki, Lublin University of Technology, Poland
+
+## Conference program
+
+### 10. October 2023
 
 10.00 – 15.00 Pre-Conference Professional Course, Room M107
 
@@ -14,7 +47,7 @@ coverY: 0
 
 18.00 – 21.00 Ice Breaker Party, Hotel Ibis Styles (15 mins by bus)
 
-## 11. October 2023
+### 11. October 2023
 
 8.00 Registration
 
@@ -38,7 +71,7 @@ coverY: 0
 
 17.00 LUT Off-Road and Military Vehicle Students‘ Projects — Workshop, Prof. L. Gardyński
 
-## 12. October 2023
+### 12. October 2023
 
 9.00 Plenary session — \[\[Keynote speaker ???]]
 
@@ -58,7 +91,7 @@ coverY: 0
 
 19.00 Gala dinner — Hotel Ibis Styles
 
-## 13. October 2023
+### 13. October 2023
 
 Technical Tour — Sulejówek
 

@@ -134,3 +134,13 @@ Przemysław Simiński, Poland\
 Thomas R. Way, U.S.A.\
 Vladimir Vantsevich, U.S.A.\
 Artur Zdunek, Poland\
+
+
+## Patronage
+
+A honorary patronage of:
+
+<figure><img src=".gitbook/assets/01_znak_podstawowy_kolor_biale_tlo.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/Politechnika logo.PNG" alt=""><figcaption></figcaption></figure>
+

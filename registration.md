@@ -24,18 +24,24 @@ Please read through the registration information to make your choices before you
 
 To register now online by credit card, use the registration choices below to choose the appropriate registration, then complete the checkout process on the payment page. ISTVS partners with Stripe for simplified billing. All prices are in EUR.
 
-**Early Bird Registration before 31 July 2023**
+#### **Early Bird Conference Registration before 31 July 2023**
 
-​🎟 [2023 Member Early Bird Registration | EUR 450](https://buy.stripe.com/bIY3crbK344UegU7sz)
+​🎟 [2023 Early Bird Registration | Members EUR 450](https://buy.stripe.com/bIY3crbK344UegU7sz)
 
-​🎟 [2023 Non-Member Early Bird Registration | EUR 550](https://buy.stripe.com/eVa6oD15pbxm2yc4gm)
+​🎟 [2023 Early Bird Registration | Non-Members EUR 550](https://buy.stripe.com/eVa6oD15pbxm2yc4gm)
 
-​🎟 [2023 Student Early Bird Registration | EUR 200](https://buy.stripe.com/eVa9AP01l44U2yc28b)
+​🎟 [2023 Early Bird Registration | Students EUR 200](https://buy.stripe.com/eVa9AP01l44U2yc28b)
 
-**After 31 July 2023**
+#### Professional Course Registration
 
-​🎟 2023 Member Registration | EUR 500
+​[🎟 2023 Professional Course Registration | Members EUR 100](https://buy.stripe.com/5kA8wL29t6d27SwbIQ)
 
-​🎟 2023 Non-Member Registration | EUR 600
+[🎟 2023 Professional Course Registration | Non-Members EUR 150](https://buy.stripe.com/5kA8wL29tgRGb4IbIR)
 
-​🎟 2023 Student Registration | EUR 250
+#### **Conference Registration After 31 July 2023**
+
+​🎟 2023 Registration | Members EUR 500
+
+​🎟 2023 Registration | Non-Members EUR 600
+
+​🎟 2023 Registration | Students EUR 250

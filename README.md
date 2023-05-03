@@ -8,17 +8,12 @@ coverY: 0
 
 {% hint style="warning" %}
 _Thu 2023-04-20 update_\
-Conference registration with early bird pricing now open [here](registration.md)
+Conference and professional course registration with early bird pricing now open [here](registration.md)
 {% endhint %}
 
 {% hint style="success" %}
 _Tue 2023-04-18 update_\
 Paper template now available on the Submissions page [here](./#templates)
-{% endhint %}
-
-{% hint style="success" %}
-_Thu 2023-03-16 update_\
-Submissions deadline&#x20;
 {% endhint %}
 
 {% hint style="success" %}

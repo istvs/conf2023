@@ -6,7 +6,7 @@ coverY: 0
 
 # Program
 
-ISTVS Professional Course:\
+ISTVS Professional Short Course:\
 Design and Dynamics of Off-Road Vehicles with Emphasis to Terramechanics
 ------------------------------------------------------------------------
 

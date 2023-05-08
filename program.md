@@ -7,7 +7,7 @@ coverY: 0
 # Program
 
 ISTVS Professional Short Course:\
-Design and Dynamics of Off-Road Vehicles with Emphasis to Terramechanics
+Design and Dynamics of Off-Road Vehicles with Emphasis on Terramechanics
 ------------------------------------------------------------------------
 
 ISTVS is pleased to invite you to explore the design and dynamics of off-road vehicles, with a special emphasis on terramechanics. Three speakers, remarkable researchers, and educators will deliver 90-minute lessons on crucial aspects of vehicle design, testing, and dynamics for innovative solutions in the field of off-road dynamics, safety, and comfort. The course content has a deep reference to both classical and upcoming innovations in terramechanics.
@@ -28,13 +28,13 @@ Faculty of Mechanical Engineering, Room M107
 
 Welcome // 9.50 – 10.00
 
-Lesson 1 // Novel Methods in Analytical and Experimental Off-Road Vehicle Dynamics. 10.00 – 11.30\
+1 // _Novel Methods in Analytical and Experimental Off-Road Vehicle Dynamics_. 10.00 – 11.30\
 Schalk Els, University of Pretoria, South Africa
 
-Lesson 2 // Elements of Planetary Rover Design: Innovative Solutions for Optimal Traction on Extraterrestrial Bodies. 11.45 – 13.15\
+2 // _Elements of Planetary Rover Design: Innovative Solutions for Optimal Traction on Extraterrestrial Bodies_. 11.45 – 13.15\
 Lutz Richter, SoftServe, Inc., Munich, Germany
 
-Lesson 3 // New Trends in Off-Road Vehicle Design. 13.30 – 15.00\
+3 // _New Trends in Off-Road Vehicle Design_. 13.30 – 15.00\
 Zbigniew Kiernicki, Lublin University of Technology, Poland
 
 ## Conference program

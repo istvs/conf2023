@@ -41,23 +41,23 @@ Zbigniew Kiernicki, Lublin University of Technology, Poland
 
 ### 10. October 2023
 
-10.00 – 15.00 Pre-Conference Professional Course, Room M107
+10.00 – 15.00 Pre-Conference Professional Short Course, Room M107
 
-15.30 – 17.00 BoD Meeting, Room M107
+15.30 – 17.00 ISTVS Board of Directors Meeting, Room M107
 
-18.00 – 21.00 Ice Breaker Party, Hotel Ibis Styles (15 mins by bus)
+18.00 – 21.00 Ice Breaker Welcome Event, [Hotel Ibis Styles](https://ibislublin.pl/hotel/o-hotelu) (15 mins by bus)
 
 ### 11. October 2023
 
 8.00 Registration
 
 9.00 Opening  ceremony, Auditorium A1\
-\- Conference Chair Welcome — Jarosław Pytka\
-\- President‘s Address — Corina Sandu\
-\- Journal of Terramechanics Editor-in-Chief’s Address — Vladimir Vantsevich
+Conference Chair Welcome — Jarosław Pytka\
+President‘s Address — Corina Sandu\
+Journal of Terramechanics Editor-in-Chief’s Address — Vladimir Vantsevich
 
 10.00 Plenary Session, Auditorium A1\
-\- Prof. Jerzy Lipiec, Institute of Agrophysics
+Prof. Jerzy Lipiec, Institute of Agrophysics
 
 12.00 Conference photo, then lunch
 
@@ -73,7 +73,7 @@ Zbigniew Kiernicki, Lublin University of Technology, Poland
 
 ### 12. October 2023
 
-9.00 Plenary session — \[\[Keynote speaker ???]]
+9.00 Plenary session — Keynote speaker
 
 10.00 Refreshments
 
@@ -89,21 +89,21 @@ Zbigniew Kiernicki, Lublin University of Technology, Poland
 
 16.30 Closing ceremony and awards
 
-19.00 Gala dinner — Hotel Ibis Styles
+19.00 Gala dinner — [Hotel Ibis Styles](https://ibislublin.pl/hotel/o-hotelu)
 
 ### 13. October 2023
 
-Technical Tour — Sulejówek
+[Technical Tour — Sulejówek](technical-tour.md)
 
 7.30 Departure
 
-10.00 WITPIS Sulejówek
+10.00 [WITPIS Sulejówek](https://www.witpis.eu/pl/)
 
 13.00 Refreshments
 
 14.00 Departing from Sulejówek
 
-15.30 Kazimierz Dolny, lunch in a restaurant
+15.30 [Kazimierz Dolny](https://www.kazimierz-dolny.pl/turystyka/), lunch in a restaurant
 
 16.00 Visiting Kazimierz Dolny
 

@@ -113,6 +113,17 @@ Prof. Jerzy Lipiec, Institute of Agrophysics
 \
 \
 \
-\
+LUT Off-Road and Military Vehicle Students‘ Projects — Workshop
+---------------------------------------------------------------
 
+During the conference there will be demonstrations of students' projects in the field of off-road and military vehicles, among them:\
+
+
+<figure><img src=".gitbook/assets/buggy.JPG" alt="" width="563"><figcaption><p>BUGGY 4x4 - a prototype of a light off-road vehicle with improved trafficability and versatile use. It was proposed by the Lublin University of Technology for the army and public order services.</p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/zuk 66.JPG" alt="" width="563"><figcaption><p>ŻUK 6x6, a small tipper with all-wheel drive and the possibility of configuring the drive 6x2, 6x4 and 6x6. The vehicle has a cab that opens like in large trucks and a number of improvements for off-road use.</p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/polonez.JPG" alt="" width="563"><figcaption><p>Hybrid POLONEZ, in which students installed an additional axle. Steel tracks are mounted on the wheels of the two rear axles, and skids on the front axle wheels, thanks to which the vehicle is able to overcome snowy areas.</p></figcaption></figure>
+
+## &#x20;
 

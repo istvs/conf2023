@@ -57,7 +57,7 @@ President‘s Address — Corina Sandu\
 Journal of Terramechanics Editor-in-Chief’s Address — Vladimir Vantsevich
 
 10.00 Plenary Session, Auditorium A1\
-Prof. Jerzy Lipiec, Institute of Agrophysics
+**Keynote: Prof. Jerzy Lipiec, Institute of Agrophysics, Poland**
 
 12.00 Conference photo, then lunch
 
@@ -73,7 +73,8 @@ Prof. Jerzy Lipiec, Institute of Agrophysics
 
 ### 12. October 2023
 
-9.00 Plenary session — Keynote speaker
+9.00 Plenary session, Auditorium A1\
+**Keynote: Dr. Vassilios Papantoniou, Hellenic Technology of Robotics, Greece**
 
 10.00 Refreshments
 

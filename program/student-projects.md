@@ -1,5 +1,7 @@
 ---
 description: Lublin University of Technology
+cover: ../.gitbook/assets/5169471_14135eeb36_b_uprezzed@2x.jpg
+coverY: 0
 ---
 
 # Student projects

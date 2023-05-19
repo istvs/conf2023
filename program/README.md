@@ -117,11 +117,23 @@ Off-Road and Military Vehicles | Lublin University of Technology Student Project
 
 Hands-on demonstrations of Lublin University of Technology student projects in off-road and military vehicles will be ongoing through the conference. Here are a few, see more here.
 
-<figure><img src="../.gitbook/assets/buggy.JPG" alt="" width="563"><figcaption><p>BUGGY 4x4. A prototype of a light off-road vehicle with improved trafficability and versatile use proposed by the LUT for the army and public order services.</p></figcaption></figure>
+<div>
 
-<figure><img src="../.gitbook/assets/zuk 66.JPG" alt="" width="563"><figcaption><p>ŻUK 6x6. A small tipper with all-wheel drive and the possibility of configuring the drive 6x2, 6x4, and 6x6. The vehicle has a cab that opens like in larger trucks and a number of improvements for off-road use.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/i_buggy.jpg" alt="" width="563"><figcaption><p>BUGGY 4x4. A prototype of a light off-road vehicle with improved trafficability and versatile use proposed by the LUT for the army and public order services.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/polonez.JPG" alt="" width="563"><figcaption><p>Hybrid POLONEZ. Students installed an additional axle. Steel tracks are mounted on the wheels of the two rear axles and skids on the front axle wheels, thanks to which the vehicle is able to overcome snowy areas.</p></figcaption></figure>
+ 
 
-## &#x20;
+<figure><img src="../.gitbook/assets/i_zuk.jpg" alt=""><figcaption><p>ŻUK 6x6. A small tipper with all-wheel drive and the possibility of configuring the drive 6x2, 6x4, and 6x6. Has a cab that opens like in larger trucks and a number of improvements for off-road use.</p></figcaption></figure>
+
+</div>
+
+<div align="left" data-full-width="true">
+
+<figure><img src="../.gitbook/assets/i_polonez.jpg" alt="" width="563"><figcaption><p>Hybrid POLONEZ. Students installed an additional axle. Steel tracks are mounted on the wheels of the two rear axles and skids on the front axle wheels, thanks to which the vehicle is able to overcome snowy areas.</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/i_buggy.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
 

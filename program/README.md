@@ -115,11 +115,19 @@ Journal of Terramechanics Editor-in-Chief’s Address — Vladimir Vantsevich
 Off-Road and Military Vehicles | Lublin University of Technology Student Projects Workshop
 ------------------------------------------------------------------------------------------
 
-Hands-on demonstrations of Lublin University of Technology student projects in off-road and military vehicles will be ongoing through the conference. Here are a few, see more here.
+Hands-on demonstrations of Lublin University of Technology student projects in off-road and military vehicles will be ongoing through the conference. Here are a few examples. [See all the projects that will be on display](student-projects.md).
 
-<figure><img src="../.gitbook/assets/buggy.JPG" alt=""><figcaption><p>BUGGY 4x4. A prototype of a light off-road vehicle with improved trafficability and versatile use proposed by the LUT for the army and public order services.</p></figcaption></figure>
+<div align="left" data-full-width="false">
 
-<figure><img src="../.gitbook/assets/i_zuk.jpg" alt=""><figcaption><p>ŻUK 6x6. A small tipper with all-wheel drive and the possibility of configuring the drive 6x2, 6x4, and 6x6. Has a cab that opens like in larger trucks and a number of improvements for off-road use.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/buggy.JPG" alt=""><figcaption><p><strong>BUGGY 4x4.</strong> A prototype of a light off-road vehicle with improved trafficability and versatile use proposed by the Lublin University of Technology for the army and public order services.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/polonez.JPG" alt=""><figcaption><p>Hybrid POLONEZ. Students installed an additional axle. Steel tracks are mounted on the wheels of the two rear axles and skids on the front axle wheels, thanks to which the vehicle is able to overcome snowy areas.</p></figcaption></figure>
+ 
+
+<figure><img src="../.gitbook/assets/zuk 66.JPG" alt=""><figcaption><p><strong>ŻUK 6x6.</strong> A small tipper with all-wheel drive and the possibility of configuring the drive 6x2, 6x4, and 6x6. Has a cab that opens like in larger trucks and other improvements for off-road use.</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/polonez.JPG" alt=""><figcaption><p><strong>HYBRID POLONEZ</strong> Students installed an additional axle. Steel tracks are mounted on the wheels of the two rear axles and skids on the front axle wheels, thanks to which the vehicle is able to overcome snowy areas.</p></figcaption></figure>
+
+</div>
 

@@ -8,7 +8,7 @@ These student projects will be on display during the conference and also availab
 
 <div>
 
-<figure><img src="../.gitbook/assets/buggy.JPG" alt=""><figcaption><p><strong>BUGGY 4x4.</strong> A prototype of a light off-road vehicle with improved trafficability and versatile use proposed by the LUT for the army and public order services.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/buggy.JPG" alt=""><figcaption><p><strong>BUGGY 4x4.</strong> A prototype of a light off-road vehicle with improved trafficability and versatile use proposed by the Lublin University of Technology for the army and public order services.</p></figcaption></figure>
 
  
 

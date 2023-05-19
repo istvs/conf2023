@@ -57,7 +57,9 @@ President‘s Address — Corina Sandu\
 Journal of Terramechanics Editor-in-Chief’s Address — Vladimir Vantsevich
 
 10.00 Plenary Session, Auditorium A1\
-**Keynote: Prof. Jerzy Lipiec, Institute of Agrophysics, Poland**
+**Keynote: Prof. Jerzy Lipiec, Institute of Agrophysics, Poland**\
+_Vehicular traction effects on agriculture: Soil compaction and soil erosion, crop yield._ \
+_Implications from the perspective of terramechanics_
 
 12.00 Conference photo, then lunch
 
@@ -74,7 +76,8 @@ Journal of Terramechanics Editor-in-Chief’s Address — Vladimir Vantsevich
 ### 12. October 2023
 
 9.00 Plenary session, Auditorium A1\
-**Keynote: Dr. Vassilios Papantoniou, Hellenic Technology of Robotics, Greece**
+**Keynote: Dr. Vassilios Papantoniou, Hellenic Technology of Robotics, Greece**\
+_Autonomous operations in off-road: Avoiding and overcoming obstacles and places with reduced grip_
 
 10.00 Refreshments
 

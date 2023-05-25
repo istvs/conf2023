@@ -77,7 +77,7 @@ _Implications from the perspective of terramechanics_
 
 9.00 Plenary session, Auditorium A1\
 **Keynote: Dr. Vassilios Papantoniou, Hellenic Technology of Robotics, Greece**\
-_Autonomous operations in off-road: Avoiding and overcoming obstacles and places with reduced grip_
+_A novel flexible all-metal wheel for planetary exploration_
 
 10.00 Refreshments
 

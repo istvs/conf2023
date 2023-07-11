@@ -97,11 +97,14 @@ _Conference chair_\
 ## Organizing committee
 
 Jarosław Pytka, Chair\
-Rafał Longwic\
-Gracjana Woźniak-Borawska\
+Aleksander Czajka\
+Leszek Gardyński\
+Mateusz Klepka\
 Michał Kuszneruk\
+Rafał Longwic\
 Dawid Tatarynow\
-Paweł Tomiło
+Paweł Tomiło\
+Gracjana Woźniak-Borawska
 
 ### Scientific committee
 
@@ -118,8 +121,8 @@ Thomas Keller, Sweden\
 Peter Kiss, Hungary\
 József Kövecses, Canada\
 George Mason, U.S.A.\
-Hiroshi Nakashima, Japan\
 Massimo Martelli, Italy\
+Hiroshi Nakashima, Japan\
 Parish Nalavade, India\
 Lutz Richter, Germany\
 Dror Rubinstein, Israel\

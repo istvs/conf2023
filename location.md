@@ -18,7 +18,13 @@ The mission of the Faculty of Mechanical Engineering is interdisciplinary educat
 
 <figure><img src=".gitbook/assets/LIT.png" alt=""><figcaption><p>Lublin University of Technology</p></figcaption></figure>
 
+## Lublin
 
+Here is some information about the city:
+
+* [Young at heart: Poland’s party city of Lublin | Poland holidays | The Guardian](https://www.theguardian.com/travel/2023/jul/01/young-at-heart-polands-party-city-of-lublin-european-youth-capital)
+* [European Youth Capital 2023](https://lublin.eu/en/lublin/youth-lublin/)
+* [Carnaval Sztukmistrzów | Edition 2022 - YouTube](https://www.youtube.com/watch?v=opvoK6hBqrY)
 
 ## Travel to Lublin, Poland
 

@@ -96,7 +96,7 @@ _Conference chair_\
 
 ## Organizing committee
 
-Jarosław Pytka, Chair\
+Jarosław Pytka, _Chair_\
 Aleksander Czajka\
 Leszek Gardyński\
 Mateusz Klepka\
@@ -108,31 +108,29 @@ Gracjana Woźniak-Borawska
 
 ### Scientific committee
 
-Jarosław Pytka, _Chair_\
-Dariusz Błażejczak, Poland\
-Piotr Budzyński, Poland\
-Schalk Els, South Africa\
-Rámon Gonzalez, Spain\
-Rainer Horn, Germany\
-Heidi R. Howard, U.S.A.\
-Genya Ishigami, Japan\
-Jerzy Józwik, Poland\
-Thomas Keller, Sweden\
-Peter Kiss, Hungary\
-József Kövecses, Canada\
-George Mason, U.S.A.\
-Massimo Martelli, Italy\
-Hiroshi Nakashima, Japan\
-Parish Nalavade, India\
-Lutz Richter, Germany\
-Dror Rubinstein, Israel\
-Vilas M. Salokhe, India\
-Corina Sandu, U.S.A.\
-Przemysław Simiński, Poland\
-Thomas R. Way, U.S.A.\
-Vladimir Vantsevich, U.S.A.\
-Artur Zdunek, Poland\
-
+**Jarosław Pytka**, Lublin University of Technology, Poland, _Chair_\
+**Dariusz Błażejczak**, West Pomeranian University of Technology, Poland\
+**Piotr Budzyński**, Lublin University of Technology, Poland\
+**Schalk Els**, University of Pretoria, South Africa\
+**Rámon Gonzalez**, Robonity, Spain\
+**Bradley Hansen**, ERDC, U.S.A.\
+**Rainer Horn**, CAU Kiel, Germany\
+**Heidi R. Howard**, US Army Corps of Engineers, U.S.A.\
+**Genya Ishigami**, Keio University, Japan\
+**Jerzy Józwik**, Lublin University of Technology, Poland\
+**Thomas Keller**, Swedish University of Agricultural Sciences, Sweden\
+**Peter Kiss**, Hungarian University of Agriculture and Life Sciences, Hungary\
+**József Kövecses**, McGill University, Canada\
+**George Mason**, Mississipi State University, U.S.A.\
+**Massimo Martelli**, National Research Council of Italy, Italy\
+**Lutz Richter**, Large Space Structures GmbH, Germany\
+**Dror Rubinstein**, Ariel University, Israel\
+**Vilas M. Salokhe**, Kaziranga University, India\
+**Corina Sandu**, Virginia Tech, U.S.A.\
+**Przemysław Simiński**, University of Natural Sciences and Humanities, Poland\
+**Thomas R. Way**, USDA-ARS, National Soil Dynamics Lab, U.S.A.\
+**Vladimir Vantsevich**, Worcester Polytechnic Institute, U.S.A.\
+**Artur Zdunek**, Institute of Agrophysics PAS, Poland
 
 ## Patronage
 

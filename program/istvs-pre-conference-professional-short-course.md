@@ -1,8 +1,10 @@
 ---
 description: October 11, 2023 | Lublin, Poland
+cover: ../.gitbook/assets/5169471_14135eeb36_b_uprezzed@2x.jpg
+coverY: 0
 ---
 
-# ISTVS Professional Short Course
+# ISTVS Pre-conference Professional Short Course
 
 ## Design and Dynamics of Off-Road Vehicles with Emphasis on Terramechanics
 

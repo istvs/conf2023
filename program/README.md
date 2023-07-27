@@ -40,7 +40,7 @@ _Implications from the perspective of terramechanics_
 
 17.00 LUT Off-Road and Military Vehicle Students‘ Projects — Workshop, Prof. L. Gardyński
 
-### Conference Day 2 | 12. October 2023
+## Conference Day 2 | 12. October 2023
 
 9.00 Plenary session, Auditorium A1\
 **Keynote: Dr. Vassilios Papantoniou, Hellenic Technology of Robotics, Greece**\
@@ -62,7 +62,7 @@ _A novel flexible all-metal wheel for planetary exploration_
 
 19.00 Gala dinner — [Hotel Ibis Styles](https://ibislublin.pl/hotel/o-hotelu)
 
-### Conference Day 3 | 13. October 2023
+## Conference Day 3 | 13. October 2023
 
 [Technical Tour — Sulejówek](../technical-tour.md)
 
@@ -80,12 +80,11 @@ _A novel flexible all-metal wheel for planetary exploration_
 
 18.00 Departing for Lublin
 
-\
-\
-Off-Road and Military Vehicles | Lublin University of Technology Student Projects Workshop
-------------------------------------------------------------------------------------------
+## Student Projects Workshop
 
 Hands-on demonstrations of Lublin University of Technology student projects in off-road and military vehicles will be ongoing through the conference. Here are a few examples. [See all the projects that will be on display](student-projects.md).
+
+### Off-Road and Military Vehicles | Lublin University of Technology
 
 <div align="left" data-full-width="false">
 

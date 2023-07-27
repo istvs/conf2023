@@ -10,7 +10,7 @@ coverY: 0
 
 10.00 – 15.00 [Pre-Conference Professional Short Course](./#preconference-or-10.-october-2023), Room M107
 
-15.30 – 17.00 ISTVS Board of Directors Meeting, Room M107
+14.00 – 17.00 ISTVS Board of Directors Meeting, Room _tbd_
 
 18.00 – 21.00 Ice Breaker Welcome Event, [Hotel Ibis Styles](https://ibislublin.pl/hotel/o-hotelu) (15 mins by bus)
 

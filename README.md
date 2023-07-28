@@ -6,28 +6,6 @@ coverY: 0
 
 # 16th European-African Regional Conference of the ISTVS
 
-{% hint style="warning" %}
-_Thu 2023-04-20 update_\
-Conference and professional course registration with early bird pricing now open [here](registration.md)
-{% endhint %}
-
-{% hint style="success" %}
-_Tue 2023-04-18 update_\
-Paper template now available on the Submissions page [here](./#templates)
-{% endhint %}
-
-{% hint style="success" %}
-_Thu 2023-03-09 update_\
-We are excited about two conference updates\
-\
-**Technical tour** // [Military Institute of Automotive and Armour Technology](https://www.witpis.eu/pl/), Sulejówek, near Warsaw. The tour will include a short presentation, visiting outdoor laboratories, and a presentation of test stands and vehicles. The tour will be followed by a visit to [Kazimierz Dolny](https://www.kazimierz-dolny.pl/turystyka/), with an opportunity for sightseeing and dinner in a restaurant.\
-\
-**Pre-conference short course — Elements of off-road vehicle design, dynamics, and terramechanics** // The Lublin conference committee has scheduled a one-day technical course to precede the conference, on October 10. Confirmed presentation on _Off-Road Vehicle Design Fundamentals_ by [Dr. Zbigniew Kiernicki](https://scholar.google.com/scholar?hl=pl\&as\_sdt=2007\&as\_vis=1\&q=Zbigniew+kiernicki\&btnG=), Lublin University of Technology, Poland, and other presenters to be announced.\
-\
-~~**Deadline for submissions** // Next week, March 15.~~ [~~Submit now~~](https://easychair.org/conferences/?conf=istvs2023)~~.~~\
-Deadline for submissions now Thu 2023-03-30 _(updated Thu 2023-03-16)_
-{% endhint %}
-
 <div>
 
 <figure><img src=".gitbook/assets/Fig6_edit.jpeg" alt=""><figcaption></figcaption></figure>
@@ -139,4 +117,26 @@ A honorary patronage of:
 <figure><img src=".gitbook/assets/01_znak_podstawowy_kolor_biale_tlo.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/Politechnika logo.PNG" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+_Thu 2023-04-20 update_\
+Conference and professional course registration with early bird pricing now open [here](registration.md)
+{% endhint %}
+
+{% hint style="success" %}
+_Tue 2023-04-18 update_\
+Paper template now available on the Submissions page [here](./#templates)
+{% endhint %}
+
+{% hint style="success" %}
+_Thu 2023-03-09 update_\
+We are excited about two conference updates\
+\
+**Technical tour** // [Military Institute of Automotive and Armour Technology](https://www.witpis.eu/pl/), Sulejówek, near Warsaw. The tour will include a short presentation, visiting outdoor laboratories, and a presentation of test stands and vehicles. The tour will be followed by a visit to [Kazimierz Dolny](https://www.kazimierz-dolny.pl/turystyka/), with an opportunity for sightseeing and dinner in a restaurant.\
+\
+**Pre-conference short course — Elements of off-road vehicle design, dynamics, and terramechanics** // The Lublin conference committee has scheduled a one-day technical course to precede the conference, on October 10. Confirmed presentation on _Off-Road Vehicle Design Fundamentals_ by [Dr. Zbigniew Kiernicki](https://scholar.google.com/scholar?hl=pl\&as\_sdt=2007\&as\_vis=1\&q=Zbigniew+kiernicki\&btnG=), Lublin University of Technology, Poland, and other presenters to be announced.\
+\
+~~**Deadline for submissions** // Next week, March 15.~~ [~~Submit now~~](https://easychair.org/conferences/?conf=istvs2023)~~.~~\
+Deadline for submissions now Thu 2023-03-30 _(updated Thu 2023-03-16)_
+{% endhint %}
 

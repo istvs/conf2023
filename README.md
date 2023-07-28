@@ -6,6 +6,11 @@ coverY: 0
 
 # 16th European-African Regional Conference of the ISTVS
 
+{% hint style="info" %}
+_Fri 2023-07-28 update_\
+Conference early bird registration closing 2023-07-31 >> [REGISTER NOW HERE](registration.md)
+{% endhint %}
+
 The conference is an opportunity to present and disseminate the latest scientific and technological achievements in the field of vehicle-terrain systems.
 
 Both representatives of science in the field of mechanical engineering, vehicles and machines, mechatronics and automation, soil science, agriculture and environmental engineering, as well as professionals from industry, business environment and government agencies for whom the issues discussed at the conference are an important merit are invited to participate. The organizers also count on the participation of students from under- and postgraduate courses.

@@ -41,8 +41,12 @@ The intention of the organizers is to create a friendly atmosphere and comfortab
 * issues in the field of terramechanics and vehicle-terrain systems not mentioned above.
 
 **Jarosław Pytka**\
-_Conference chair_\
-[Faculty of Mechanical Engineering](https://wm.pollub.pl/) | [Lublin University of Technology](https://pollub.pl/)&#x20;
+_Conference chair_ | [_j.pytka@pollub.pl_](mailto:j.pytka@pollub.pl)\
+[Faculty of Mechanical Engineering](https://wm.pollub.pl/) | [Lublin University of Technology](https://pollub.pl/)
+
+**Michał Kuszneruk**\
+_Conference registrar_ | [_m.kuszneruk@pollub.pl_](mailto:m.kuszneruk@pollub.pl)\
+[Lublin University of Technology](https://pollub.pl/)
 
 <div>
 

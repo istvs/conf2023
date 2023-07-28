@@ -13,3 +13,5 @@ _Conference chair ::_ [_j.pytka@pollub.pl_](http://127.0.0.1:5000/u/Y7xwdPW2r8ZY
 [Faculty of Mechanical Engineering](https://wm.pollub.pl/) | [Lublin University of Technology](https://pollub.pl/)&#x20;
 
 {% @mailchimp/mailchimpSubscribe cta="Sign up to our mailing list to receive ISTVS updates" %}
+
+{% @formspree/formspree %}

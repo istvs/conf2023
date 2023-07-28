@@ -32,7 +32,7 @@ To register now online by credit card, use the registration choices below to cho
 
 ​🎟 [2023 Early Bird Registration | Students EUR 200](https://buy.stripe.com/eVa9AP01l44U2yc28b)
 
-#### Professional Short Course Registration
+#### Professional Short Course Registration | [Details](registration.md#professional-short-course-registration-or-details)
 
 ​[🎟 2023 Professional Short Course Registration | Members EUR 100](https://buy.stripe.com/5kA8wL29t6d27SwbIQ)
 

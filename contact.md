@@ -12,6 +12,6 @@ For all general inquiries with respect to the conference:
 _Conference chair ::_ [_j.pytka@pollub.pl_](http://127.0.0.1:5000/u/Y7xwdPW2r8ZYEZKUpv5OlbDLxj02)\
 [Faculty of Mechanical Engineering](https://wm.pollub.pl/) | [Lublin University of Technology](https://pollub.pl/)&#x20;
 
-{% @mailchimp/mailchimpSubscribe cta="Sign up to our mailing list to receive ISTVS updates" %}
+{% @mailchimp/mailchimpSubscribe cta="Sign up to our mailing list to receive ISTVS updates" fullWidth="true" %}
 
-{% @formspree/formspree %}
+{% @formspree/formspree fullWidth="true" %}

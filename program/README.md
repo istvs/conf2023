@@ -8,77 +8,77 @@ coverY: 0
 
 ## Preconference | 10. October 2023
 
-10.00 – 15.00 [Pre-Conference Professional Short Course](./#preconference-or-10.-october-2023), Room M107
+10.00 – 15.00 | [Pre-Conference Professional Short Course](./#preconference-or-10.-october-2023), Room M107
 
-14.00 – 17.00 ISTVS Board of Directors Meeting, Room _tbd_
+14.00 – 17.00 | ISTVS Board of Directors Meeting, Room _tbd_
 
-18.00 – 21.00 Ice Breaker Welcome Event, [Hotel Ibis Styles](https://ibislublin.pl/hotel/o-hotelu) (15 mins by bus)
+18.00 – 21.00 | Ice Breaker Welcome Event, [Hotel Ibis Styles](https://ibislublin.pl/hotel/o-hotelu) (15 mins by bus)
 
 ## Conference Day 1 | 11. October 2023
 
-8.00 Registration
+8.00 | Registration
 
-9.00 Opening  ceremony, Auditorium A1\
+9.00 | Opening  ceremony, Auditorium A1\
 Conference Chair Welcome — Jarosław Pytka\
-President‘s Address — Corina Sandu\
+President’s Address — Corina Sandu\
 Journal of Terramechanics Editor-in-Chief’s Address — Vladimir Vantsevich
 
-10.00 Plenary Session, Auditorium A1\
+10.00 | Plenary Session, Auditorium A1\
 **Keynote: Prof. Jerzy Lipiec, Institute of Agrophysics, Poland**\
 _Vehicular traction effects on agriculture: Soil compaction and soil erosion, crop yield._ \
 _Implications from the perspective of terramechanics_
 
-12.00 Conference photo, then lunch
+12.00 | Conference photo followed by lunch
 
-13.00 Parallel sessions — 2 tracks — Auditorium A2/A3/M107
+13.00 | Parallel sessions — 2 tracks — Auditorium A2/A3/M107
 
-14.30 Refreshments
+14.30 | Refreshments
 
-15.00 Parallel sessions — 2 tracks — Auditorium A2/A3/M107
+15.00 | Parallel sessions — 2 tracks — Auditorium A2/A3/M107
 
-16.30 Refreshments
+16.30 | Refreshments
 
-17.00 LUT Off-Road and Military Vehicle Students‘ Projects — Workshop, Prof. L. Gardyński
+17.00 | LUT Off-Road and Military Vehicle Students‘ Projects — Workshop, Prof. L. Gardyński
 
 ## Conference Day 2 | 12. October 2023
 
-9.00 Plenary session, Auditorium A1\
+9.00 | Plenary session, Auditorium A1\
 **Keynote: Dr. Vassilios Papantoniou, Hellenic Technology of Robotics, Greece**\
 _A novel flexible all-metal wheel for planetary exploration_
 
-10.00 Refreshments
+10.00 | Refreshments
 
-10.30 Parallel sessions — 2 tracks — Auditorium A2/A3/M107
+10.30 | Parallel sessions — 2 tracks — Auditorium A2/A3/M107
 
-12.00 Lunch
+12.00 | Lunch
 
-13.00 Parallel sessions — 2 tracks — Auditorium A2/A3/M107
+13.00 | Parallel sessions — 2 tracks — Auditorium A2/A3/M107
 
-14.30 Refreshments
+14.30 | Refreshments
 
-15.00 Parallel sessions — 3 tracks — Auditorium A2/A3/M107
+15.00 | Parallel sessions — 3 tracks — Auditorium A2/A3/M107
 
-16.30 Closing ceremony and awards
+16.30 | Closing ceremony and awards
 
-19.00 Gala dinner — [Hotel Ibis Styles](https://ibislublin.pl/hotel/o-hotelu)
+19.00 | Gala dinner — [Hotel Ibis Styles](https://ibislublin.pl/hotel/o-hotelu)
 
 ## Conference Day 3 | 13. October 2023
 
 [Technical Tour — Sulejówek](../technical-tour.md)
 
-7.30 Departure
+7.30 | Departure
 
-10.00 [WITPIS Sulejówek](https://www.witpis.eu/pl/)
+10.00 | [WITPIS Sulejówek](https://www.witpis.eu/pl/)
 
-13.00 Refreshments
+13.00 | Refreshments
 
-14.00 Departing from Sulejówek
+14.00 | Departing from Sulejówek
 
-15.30 [Kazimierz Dolny](https://www.kazimierz-dolny.pl/turystyka/), lunch in a restaurant
+15.30 | [Kazimierz Dolny](https://www.kazimierz-dolny.pl/turystyka/), lunch in a restaurant
 
-16.00 Visiting Kazimierz Dolny
+16.00 | Visiting Kazimierz Dolny
 
-18.00 Departing for Lublin
+18.00 | Departing for Lublin
 
 ## Student Projects Workshop
 

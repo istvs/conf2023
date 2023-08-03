@@ -32,7 +32,7 @@ To register now online by credit card, use the registration choices below to cho
 
 ​🎟 [2023 Registration | Students EUR 250](https://buy.stripe.com/4gw5kzaFZ7h6b4IbIN)
 
-#### Professional Short Course Registration | [Details](registration.md#professional-short-course-registration-or-details)
+#### Professional Short Course Registration | [Course details](registration.md#professional-short-course-registration-or-details)
 
 ​[🎟 2023 Professional Short Course Registration | Members EUR 100](https://buy.stripe.com/5kA8wL29t6d27SwbIQ)
 

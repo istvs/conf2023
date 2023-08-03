@@ -28,9 +28,9 @@ To register now online by credit card, use the registration choices below to cho
 
 ​🎟 [2023 Registration | Members EUR 500](https://buy.stripe.com/eVaeV9g0j6d2b4I9AC)
 
-​🎟 2023 Registration | Non-Members EUR 600
+​🎟 [2023 Registration | Non-Members EUR 600](https://buy.stripe.com/28o14j15p44U8WA4gk)
 
-​🎟 2023 Registration | Students EUR 250
+​🎟 [2023 Registration | Students EUR 250](https://buy.stripe.com/4gw5kzaFZ7h6b4IbIN)
 
 #### Professional Short Course Registration | [Details](registration.md#professional-short-course-registration-or-details)
 
@@ -40,12 +40,12 @@ To register now online by credit card, use the registration choices below to cho
 
 ####
 
-#### **Early Bird Conference Registration before 31 July 2023**
+#### _**Early Bird Conference Registration before 31 July 2023**_
 
-​🎟 2023 Early Bird Registration | Members EUR 450
+_​🎟 2023 Early Bird Registration | Members EUR 450_
 
-​🎟 2023 Early Bird Registration | Non-Members EUR 550
+_​🎟 2023 Early Bird Registration | Non-Members EUR 550_
 
-​🎟 2023 Early Bird Registration | Students EUR 200
+_​🎟 2023 Early Bird Registration | Students EUR 200_
 
 ####

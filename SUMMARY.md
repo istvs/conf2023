@@ -10,7 +10,5 @@
 * [Technical tour](technical-tour.md)
 * [Contact](contact.md)
 * [Publication Ethics and Malpractice Statement](publication-ethics.md)
-
-## Papers
-
-* [0274 / Deep learning method for IMU-based tracking of Martian rover](papers/0274-deep-learning-method-for-imu-based-tracking-of-martian-rover.md)
+* [Papers](papers.md)
+* [0274 / Deep learning method for IMU-based tracking of Martian rover](0274-deep-learning-method-for-imu-based-tracking-of-martian-rover.md)

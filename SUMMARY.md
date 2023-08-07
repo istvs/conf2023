@@ -13,4 +13,8 @@
 * [Papers](papers/README.md)
   * [0274 / Deep learning method for IMU-based tracking of Martian rover](papers/0274.md)
   * [0448 / Lunar rover discrete element method study and calibration](papers/0448.md)
+  * [0709 / Proposal of swarm rovers’ collaborative locomotion with expansion and contraction...](papers/0709.md)
+  * [0889 / Skidding suppression method using “discrete 4-wheel-drive typed rover” considering...](papers/0889.md)
+  * [1098 / Simulation of change in supporting force when imparting vibration by distinct element method](papers/0274-1.md)
+  * [1453 / Suppressing the reduction of the traveling displacement on loose soil for rovers with...](papers/1453.md)
 * [Abstract-only submissions](abstract-only.md)

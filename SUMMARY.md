@@ -12,3 +12,4 @@
 * [Publication Ethics and Malpractice Statement](publication-ethics.md)
 * [Papers](papers/README.md)
   * [0274 / Deep learning method for IMU-based tracking of Martian rover](papers/0274-deep-learning-method-for-imu-based-tracking-of-martian-rover.md)
+  * [0448 / Lunar rover discrete element method study and calibration](papers/0448-lunar-rover-discrete-element-method-study-and-calibration.md)

@@ -25,7 +25,7 @@
   * [2765 / Obstacle detection vision system enabling autonomous mounding on clearcuts](papers/2765.md)
   * [2801 / Online soil property estimation for autonomous earthmoving using physics-infused neural...](papers/2801.md)
   * [2936 / Moisture content impacts on soil load bearing capacity and its spectral behaviour](papers/2936.md)
-  * [3280 / Comparison of tweels and nematic tires on LTATV military vehicle](papers/1453-1.md)
+  * [3280 / Comparison of tweels and nematic tires on LTATV military vehicle](papers/3280.md)
   * [3493 / Numerical modeling of a tire on undrained saturated clay using FEM, ALE, and SPH](papers/3493.md)
   * [3507 / Determination of the tractive forces of a tractor based on the reconstruction of...](papers/3507.md)
   * [3796 / The issue of assessing the suitability of own simulation models for testing off-road vehicles](papers/3796.md)

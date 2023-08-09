@@ -1,5 +1,7 @@
 ---
-description: Abstract-only submissions to the 11th ISTVS Asia-Pacific Regional Conference
+description: >-
+  Abstract-only submissions to the 16th ISTVS European-African Regional
+  Conference
 ---
 
 # Abstract-only submissions
@@ -64,7 +66,7 @@ Genki Yamauchi, Takeshi Hashimoto, Mitsuru Yamada, and Shin'Ichi Yuta
 
 Abstract: In Japan, remote-operated construction machinery is often used in landslide disasters caused by earthquakes and heavy rain. Remote-operated construction machinery, which is used for such unmanned construction work, ensures worker safety by eliminating the need for physical presence at the site, thus reducing the risk of secondary disasters. However, low productivity has been a persistent issue with unmanned construction, prompting various device and system development endeavors in past research to tackle the problem. Nevertheless, no studies have quantitatively analyzed factors that diminish construction productivity. In this research, we explored construction productivity factors that previous studies had suggested and categorized them into three main groups: visual information, operation interface, and bodily sensation. Subsequently, the impact of each categorized factor on construction productivity was evaluated based on the time required to complete specific tasks, using a model task proposed by PWRI for both normal and remote operation. Results indicated that differences in visual information and operation interface significantly impacted the construction productivity of remotely operated construction machinery in the model task.
 
-### 4336 / High-fidelity 3D-DEM simulation for wheel mobility in low fravity environment
+### 4336 / High-fidelity 3D-DEM simulation for wheel mobility in low gravity environment
 
 Takuya Omura and Genya Ishigami
 

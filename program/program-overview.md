@@ -8,7 +8,7 @@ coverY: 0
 
 ## Preconference | 10. October 2023
 
-10.00 – 15.00 | [Pre-Conference Professional Short Course](overview.md#preconference-or-10.-october-2023), Room M107
+10.00 – 15.00 | [Pre-Conference Professional Short Course](program-overview.md#preconference-or-10.-october-2023), Room M107
 
 14.00 – 17.00 | ISTVS Board of Directors Meeting, Room _tbd_
 

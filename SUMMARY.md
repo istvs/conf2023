@@ -4,18 +4,18 @@
 
 ## program
 
-* [Overview](program/overview.md)
+* [Overview](program/program-overview.md)
 * [Preconference Professional Short Course](program/preconference-professional-short-course.md)
 * [Student projects](program/student-projects.md)
 
 ## Conference
 
-* [Registration](conference/registration.md)
 * [Call for Papers](conference/call-for-papers.md)
+* [Registration](conference/registration.md)
 * [Location](conference/location.md)
 * [Technical tour](conference/technical-tour.md)
-* [Contact](conference/contact.md)
 * [Statement on Publication Ethics and Malpractice](conference/publication-ethics.md)
+* [Contact](conference/contact.md)
 
 ## Submissions
 

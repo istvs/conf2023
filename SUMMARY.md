@@ -4,7 +4,7 @@
 
 ## program
 
-* [Program overview](program/program-overview.md)
+* [Overview](program/overview.md)
 * [Preconference Professional Short Course](program/preconference-professional-short-course.md)
 * [Student projects](program/student-projects.md)
 

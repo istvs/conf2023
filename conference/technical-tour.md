@@ -1,6 +1,6 @@
 ---
 description: 16th European-African Regional Conference of the ISTVS
-cover: .gitbook/assets/istvs_terrain.jpeg
+cover: ../.gitbook/assets/istvs_terrain.jpeg
 coverY: 0
 ---
 
@@ -10,17 +10,17 @@ The 2023 16th European-African Regional Conference of the International Society 
 
 The tour will include a short presentation, visiting outdoor laboratories, and a presentation of test stands and vehicles. The tour will be followed by a visit to [Kazimierz Dolny](https://www.kazimierz-dolny.pl/), with an opportunity for sightseeing and dinner in a restaurant.
 
-<figure><img src=".gitbook/assets/header_www_2023_v7_EN.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/header_www_2023_v7_EN.png" alt=""><figcaption></figcaption></figure>
 
 > The Military Institute of Armored and Automotive Technology (MIAAT) is a facility where research and development projects are conducted to improve the quality and functionality of vehicles, military equipment and armaments of the Polish Army.
 
 <div>
 
-<figure><img src=".gitbook/assets/Borsuk_2.jpg" alt="" width="375"><figcaption><p>SANP</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Borsuk_2.jpg" alt="" width="375"><figcaption><p>SANP</p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/sanp_6.jpg" alt="" width="375"><figcaption><p>BORSUK</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/sanp_6.jpg" alt="" width="375"><figcaption><p>BORSUK</p></figcaption></figure>
 
 </div>
 

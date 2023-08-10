@@ -1,11 +1,11 @@
 ---
 description: for the 16th European-African Regional Conference of the ISTVS
-cover: .gitbook/assets/5169471_14135eeb36_b_uprezzed@2x.jpg
+cover: ../.gitbook/assets/5169471_14135eeb36_b_uprezzed@2x.jpg
 coverY: 0
 layout: editorial
 ---
 
-# Publication Ethics and Malpractice Statement
+# Statement on Publication Ethics and Malpractice
 
 ## A. Publication and authorship
 

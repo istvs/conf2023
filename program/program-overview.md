@@ -4,11 +4,11 @@ cover: ../.gitbook/assets/5169471_14135eeb36_b_uprezzed@2x.jpg
 coverY: 0
 ---
 
-# Program
+# Program overview
 
 ## Preconference | 10. October 2023
 
-10.00 – 15.00 | [Pre-Conference Professional Short Course](./#preconference-or-10.-october-2023), Room M107
+10.00 – 15.00 | [Pre-Conference Professional Short Course](program-overview.md#preconference-or-10.-october-2023), Room M107
 
 14.00 – 17.00 | ISTVS Board of Directors Meeting, Room _tbd_
 
@@ -64,7 +64,7 @@ _A novel flexible all-metal wheel for planetary exploration_
 
 ## Conference Day 3 | 13. October 2023
 
-[Technical Tour — Sulejówek](../technical-tour.md)
+[Technical Tour — Sulejówek](../conference/technical-tour.md)
 
 7.30 | Departure
 

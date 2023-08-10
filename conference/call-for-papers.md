@@ -1,27 +1,15 @@
 ---
 description: 16th European-African Regional Conference of the ISTVS
-cover: .gitbook/assets/5169471_14135eeb36_b_uprezzed@2x.jpg
+cover: ../.gitbook/assets/5169471_14135eeb36_b_uprezzed@2x.jpg
 coverY: 0
 ---
 
-# Submissions
+# Call for Papers
 
 {% hint style="warning" %}
 _Tue 2023-04-18 update_\
-Paper template posted [below](submissions.md#templates)
+Paper template posted [below](call-for-papers.md#templates)
 {% endhint %}
-
-{% hint style="success" %}
-_Thu 2023-03-16 Update_\
-Submissions deadline now extended to Thu 2023-03-30. [Submit here](https://easychair.org/conferences/?conf=istvs2023).
-{% endhint %}
-
-{% hint style="success" %}
-_Thu 2023-01-26 Update_\
-Submissions open February 14, 2023. All authors are encouraged to submit full papers. Abstracts for oral presentations may also be submitted.
-{% endhint %}
-
-## Call for Papers
 
 The 16th European-African Regional Conference of the ISTVS welcomes original and previously unpublished research and review papers describing results of research which are relevant to the conference topics and to terrain-vehicle systems.
 
@@ -48,14 +36,14 @@ The conference includes the following thematic tracks:
 * autonomous and robotic systems
 * metrology in terramechanics
 
-<figure><img src=".gitbook/assets/2023-ISTVS-LUBLIN_CFPv3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2023-ISTVS-LUBLIN_CFPv3.jpg" alt=""><figcaption></figcaption></figure>
 
 ### **Submission platform**
 
 As in previous years, the conference submission platform is [EasyChair](https://easychair.org/conferences/?conf=istvs2023). If you’ve participated in a recent ISTVS conference, you will be able to log in with your existing account. If you’re new to ISTVS conferences, use the _Create an account_ link on the login page to get started. \
 **Access here:** [**https://easychair.org/conferences/?conf=istvs2023**](https://easychair.org/conferences/?conf=istvs2023)
 
-<figure><img src=".gitbook/assets/Xnapper-2023-02-13-15.05.04-9165290C-0EAB-4BE2-AB6D-7CCBF315C5BD.png" alt=""><figcaption><p>Submissions login page for ISTVS 2023</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Xnapper-2023-02-13-15.05.04-9165290C-0EAB-4BE2-AB6D-7CCBF315C5BD.png" alt=""><figcaption><p>Submissions login page for ISTVS 2023</p></figcaption></figure>
 
 ### **Templates**
 
@@ -64,7 +52,7 @@ All submissions must comply with the conference templates. Please carefully foll
 Template for Abstract _// use_ [_EasyChair submission form_](https://easychair.org/conferences/?conf=istvs2023)\
 Template for Full Paper _// posted 2023-04-18_
 
-{% file src=".gitbook/assets/ISTVS_paper_template_2023_dotx-pdf.zip" %}
+{% file src="../.gitbook/assets/ISTVS_paper_template_2023.zip" %}
 ISTVS\_paper\_template\_2023 combined .dotx and reference.pdf
 {% endfile %}
 
@@ -76,3 +64,13 @@ _Provided for reference since live docs often open locally with broken formattin
 ### **Presentation**
 
 At least one author of a paper must attend the conference to present. If the full paper is not presented at the conference, it will not be included in the conference proceedings.
+
+{% hint style="success" %}
+_Thu 2023-03-16 Update_\
+Submissions deadline now extended to Thu 2023-03-30. [Submit here](https://easychair.org/conferences/?conf=istvs2023).
+{% endhint %}
+
+{% hint style="success" %}
+_Thu 2023-01-26 Update_\
+Submissions open February 14, 2023. All authors are encouraged to submit full papers. Abstracts for oral presentations may also be submitted.
+{% endhint %}

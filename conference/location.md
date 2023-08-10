@@ -1,6 +1,6 @@
 ---
 description: 16th European-African Regional Conference of the ISTVS
-cover: .gitbook/assets/5169471_14135eeb36_b_uprezzed@2x.jpg
+cover: ../.gitbook/assets/5169471_14135eeb36_b_uprezzed@2x.jpg
 coverY: 0
 ---
 
@@ -16,7 +16,7 @@ coverY: 0
 
 The mission of the Faculty of Mechanical Engineering is interdisciplinary education of students in a way that ensures the acquisition of knowledge and skills to create creative solutions, in conjunction with science, technical development, in cooperation with the economy and society and in accordance with the best international standards and the level of modern civilization.
 
-<figure><img src=".gitbook/assets/LIT.png" alt=""><figcaption><p>Lublin University of Technology</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/LIT.png" alt=""><figcaption><p>Lublin University of Technology</p></figcaption></figure>
 
 ## Lublin
 
@@ -53,4 +53,4 @@ Hotel Mercure Lublin, 20 min.\
 <mark style="color:orange;">**Gala dinner venue:**</mark> Ibis Styles Hotel Lublin, 20 min.\
 [https://ibislublin.pl/hotel/o-hotelu](https://ibislublin.pl/hotel/o-hotelu)
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption><p>Gala Dinner Venue</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Gala Dinner Venue</p></figcaption></figure>

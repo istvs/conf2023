@@ -9,7 +9,7 @@ coverY: 0
 {% hint style="success" %}
 _Tue 2023-08-08 update_\
 We’re pleased to announce that abstracts for all full papers and abstract-only submissions have been published:\
-[Full-paper submissions](papers/) // [Abstract-only submissions](abstract-only.md)
+[Full-paper submissions](submissions/papers/) // [Abstract-only submissions](submissions/abstract-only.md)
 {% endhint %}
 
 The conference is an opportunity to present and disseminate the latest scientific and technological achievements in the field of vehicle-terrain systems.
@@ -128,12 +128,12 @@ A honorary patronage of:
 
 {% hint style="success" %}
 _Fri 2023-07-28 update_\
-Conference early bird registration closing 2023-07-31 >> [REGISTER NOW HERE](registration.md)
+Conference early bird registration closing 2023-07-31 >> [REGISTER NOW HERE](conference/registration.md)
 {% endhint %}
 
 {% hint style="success" %}
 _Thu 2023-04-20 update_\
-Conference and professional course registration with early bird pricing now open [here](registration.md)
+Conference and professional course registration with early bird pricing now open [here](conference/registration.md)
 {% endhint %}
 
 {% hint style="success" %}

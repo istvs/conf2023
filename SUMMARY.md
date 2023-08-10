@@ -60,3 +60,9 @@
   * [9268 / Experiments of singkage characters of wire mesh wheel under different slip ratio](submissions/papers/9268.md)
   * [9992 / Soil shear strength values obtained from its colour](submissions/papers/9992.md)
 * [Abstract-only submissions](submissions/abstract-only.md)
+
+## Quick links
+
+* [ISTVS](http://www.istvs.org)
+* [EasyChair](https://easychair.org/conferences/?conf=istvs2023)
+* [Journal of Terramechanics](https://www.sciencedirect.com/journal/journal-of-terramechanics)

@@ -5,7 +5,8 @@
 ## program
 
 * [Overview](program/program-overview.md)
-* [Preconference Professional Short Course](program/preconference-professional-short-course.md)
+* [Preconference Professional Short Course](program/preconference-professional-short-course/README.md)
+  * [Elements of Planetary Rover Design](program/preconference-professional-short-course/elements-of-planetary-rover-design.md)
 * [Student projects](program/student-projects.md)
 
 ## Conference

@@ -6,7 +6,9 @@ coverY: 0
 
 # Student projects
 
-These student projects will be on display during the conference and also available to test drive.
+Among numerous student technical groups at the Lublin University of Technology, there is the Student Group of Materials Engineering, led by Prof. Leszek Gardyński, who is also a great enthusiast of off-road and military vehicles. Prof. Gardyński, together with students of mechanical engineering, create designs for various off-road vehicles and machines. Selected projects are presented below. All of these vehicles will be available to conference attendees on October 11. The presentation of these vehicles will be located at the main entrance to the RUSTY building. Students who participated in the construction will be present with each vehicle and will be happy to explain the details to the conference attendees. From 5.00 PM there will be a presentation of the vehicles, during which they will be launched and presented in action.
+
+More information on individual vehicles can be obtained through the chair of the conference, Jarosław Pytka [j.pytka@pollub.pl](mailto:j.pytka@pollub.pl)
 
 <div>
 

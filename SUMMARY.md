@@ -51,7 +51,7 @@
   * [6027 / Digital precision planning tool for autonomous forest regeneration of mixed tree species](submissions/papers/6027.md)
   * [6630 / Real-time measurement of tire sinkage using stereo cameras](submissions/papers/6630.md)
   * [6690 / Comparative evaluation of methods to evaluate penetration resistance for Clegg hammer and...](submissions/papers/6690.md)
-  * [6736 / ride comfort comparison between 4-poster and straight line driving simulations](submissions/papers/6736.md)
+  * [6736 / Ride comfort comparison between 4-poster and straight line driving simulations](submissions/papers/6736.md)
   * [6861 / Researches on airplane performance on a grass airfield](submissions/papers/6861.md)
   * [7477 / Evaluating the pressure performance of DPF filters using engine bench analysis](submissions/papers/7477.md)
   * [7523 / Assessing performance of light wheeled vehicles on GRC-1 using 3D scanned footprint...](submissions/papers/7523.md)

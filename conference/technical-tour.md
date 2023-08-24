@@ -60,3 +60,7 @@ Upon completion of the tour at MIAAT, the buses will transfer attendees to Kazim
 ### Registration form
 
 {% embed url="https://tally.so/r/mY0pxB" %}
+
+{% hint style="success" %}
+_Note that you will not receive a confirming tour registration email._
+{% endhint %}

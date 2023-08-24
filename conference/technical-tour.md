@@ -43,6 +43,16 @@ For registered conference attendees, the cost to attend the technical tour is in
 
 **Please take notice of the submission deadlines for the technical tour registration. Attendees who do not submit all required information on time will not be authorized to attend the tour, and final authorization is subject to successful background checks. The MIAAT reserves the right to reject and decline visitor requests.**
 
-1. _Foreign Nationals (Non-Polish citizens)_ must submit their technical tour registration information together with scanned passport or Identity Card - only for European Union countries citizens, not later than 15 September 2023 and they must also be a registered conference attendee at the time of submission.
+1. _Foreign Nationals (Non-Polish citizens)_ must submit their technical tour registration information together with scanned passport or Identity Card—only for European Union countries citizens, not later than 15 September 2023 and they must also be a registered conference attendee at the time of submission.
 2. _Poland‘s citizens_ must submit their technical tour registration information together with scanned Identity Card not later than 15 September 2023 and they must also be a registered conference attendee at the time of submission.
-3. _Accompanying guests_ to the conference attendees are also allowed to join the technical tour, providing they also submit their own technical tour registration form together with scanned passport or ID-card. Technical Tour Additional Information The technical tour to MIAAT facilities will take place on Friday, 13 October 2023. Registered tour attendees will meet outside (east gate) the RUSTY-Building on the campus of the Lublin University of Technology at 7:15 and board buses for transportation to MIAAT facilities. Buses depart from RUSTY promptly at 7:30. Upon completion of the tour at MIAAT, the buses will transfer attendees to Kazimierz Dolny for lunch and visiting the city. After visiting Kazimierz Dolny, buses will return attendees to Lublin, finishing the ride at RUSTY-Building of the LUT.
+3. _Accompanying guests_ to the conference attendees are also allowed to join the technical tour, providing they also submit their own technical tour registration form together with scanned passport or ID-card.&#x20;
+
+#### Technical Tour Additional Information&#x20;
+
+The technical tour to MIAAT facilities will take place on Friday, 13 October 2023.&#x20;
+
+Registered tour attendees will meet outside (east gate) the RUSTY-Building on the campus of the Lublin University of Technology at 7:15 and board buses for transportation to MIAAT facilities. Buses depart from RUSTY promptly at 7:30.&#x20;
+
+Upon completion of the tour at MIAAT, the buses will transfer attendees to Kazimierz Dolny for lunch and visiting the city. After visiting Kazimierz Dolny, buses will return attendees to Lublin, finishing the ride at RUSTY-Building of the LUT.
+
+{% embed url="https://tally.so/r/mY0pxB" %}

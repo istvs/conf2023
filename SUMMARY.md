@@ -33,7 +33,7 @@
   * [2145 / Obstacle performance and wheel failure test analysis of Zhurong rover](submissions/papers/2145.md)
   * [2437 / Improving predictive control methods on off-road vehicles with realistic steering preview...](submissions/papers/2437.md)
   * [2765 / Obstacle detection vision system enabling autonomous mounding on clearcuts](submissions/papers/2765.md)
-  * [2801 / Online soil property estimation for autonomous earthmoving using physics-infused neural...](submissions/papers/2801.md)
+  * [2801 / In Situ Soil Property Estimation for Autonomous Earthmoving Using Physics- Infused Neural...](submissions/papers/2801.md)
   * [2936 / Moisture content impacts on soil load bearing capacity and its spectral behaviour](submissions/papers/2936.md)
   * [3280 / Comparison of tweels and pneumatic tires on LTATV military vehicle](submissions/papers/3280.md)
   * [3493 / Numerical modeling of a tire on undrained saturated clay using FEM, ALE, and SPH](submissions/papers/3493.md)

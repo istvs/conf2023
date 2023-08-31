@@ -45,4 +45,4 @@ This talk outlines key topics in sizing and design of mobility systems for rover
 **3 // New Trends in Off-Road Vehicle Design** | 13.30 – 15.00\
 Zbigniew Kiernicki, Lublin University of Technology, Poland
 
-_Details will be added soon._
+The design of off-road vehicles has changed significantly over the past decades due to new uses and fashions. New types of off-road vehicles have appeared. This lecture will present the development of off-road vehicle classification. The distinguishing features of different classes of off-road vehicles will be discussed. Examples of new design solutions for individual vehicle subassemblies will be presented, which illustrate the directions of development of off-road vehicle construction. Technical parameters of current off-road vehicles will be presented.

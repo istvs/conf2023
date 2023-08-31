@@ -7,7 +7,7 @@ coverY: 0
 # 16th European-African Regional Conference of the ISTVS
 
 {% hint style="success" %}
-_Tue 2023-08-31 update_\
+_Thu 2023-08-31 update_\
 Information about the pre-conference short course is now available [here](program/preconference-professional-short-course/).
 {% endhint %}
 

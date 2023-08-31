@@ -7,9 +7,8 @@ coverY: 0
 # 16th European-African Regional Conference of the ISTVS
 
 {% hint style="success" %}
-_Tue 2023-08-08 update_\
-We’re pleased to announce that abstracts for all full papers and abstract-only submissions have been published:\
-[Full-paper submissions](submissions/papers/) // [Abstract-only submissions](submissions/abstract-only.md)
+_Tue 2023-08-31 update_\
+Information about the pre-conference short course is now available [here](program/preconference-professional-short-course/).
 {% endhint %}
 
 The conference is an opportunity to present and disseminate the latest scientific and technological achievements in the field of vehicle-terrain systems.
@@ -65,18 +64,19 @@ _Conference registrar_ | [_m.kuszneruk@pollub.pl_](mailto:m.kuszneruk@pollub.pl)
 
 ## Key dates
 
-| Date               | Events                         |
-| ------------------ | ------------------------------ |
-| 14 February 2023   | Abstract submissions open      |
-| 15 March 2023      | Abstract submissions close     |
-| 30 March 2023      | Authors’ notification          |
-| 20 April 2023      | Registration opens             |
-| 31 May 2023        | Full papers deadline           |
-| 30 June 2023       | Authors’ notification          |
-| 31 July 2023       | Early bird registration closes |
-| 31 August 2023     | Reviewed papers deadline       |
-|  4 October 2023    | Registration closes            |
-| 11-13 October 2023 | Conference                     |
+| Date               | Events                             |
+| ------------------ | ---------------------------------- |
+| 14 February 2023   | Abstract submissions open          |
+| 15 March 2023      | Abstract submissions close         |
+| 30 March 2023      | Authors’ notification              |
+| 20 April 2023      | Registration opens                 |
+| 31 May 2023        | Full papers deadline               |
+| 30 June 2023       | Authors’ notification              |
+| 31 July 2023       | Early bird registration closes     |
+| 15 August 2023     | Technical tour registration closes |
+| 31 August 2023     | Reviewed papers deadline           |
+|  4 October 2023    | Registration closes                |
+| 11-13 October 2023 | Conference                         |
 
 <figure><img src=".gitbook/assets/Lublin 2023 not CFP - Twitter 1600x900.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -125,6 +125,12 @@ A honorary patronage of:
 <figure><img src=".gitbook/assets/01_znak_podstawowy_kolor_biale_tlo.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/Politechnika logo.PNG" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+_Tue 2023-08-08 update_\
+We’re pleased to announce that abstracts for all full papers and abstract-only submissions have been published:\
+[Full-paper submissions](submissions/papers/) // [Abstract-only submissions](submissions/abstract-only.md)
+{% endhint %}
 
 {% hint style="success" %}
 _Fri 2023-07-28 update_\

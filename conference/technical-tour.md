@@ -43,9 +43,9 @@ The tour will include a short presentation, visiting outdoor laboratories, and a
 
 _Registered conference attendees:_ the cost to attend the technical tour is already **included** in the conference registration fee.
 
-_Registered accompanying guests_: must book the tour separately (see details in [**Registration**](technical-tour.md#registration-details))
+_Registered accompanying guests_: must book the tour **separately** (see details in [**Registration**](technical-tour.md#registration-details))
 
-In either case, not later that Friday, 15 September 2023, you must submit the dedicated registration form (below), uploading a scan of a valid identity document, so that the necessary background checks can be carried out.
+In either case, not later that **Friday, 15 September 2023**, you must submit the dedicated **registration form** (below), uploading a scan of a valid **identity document**, so that the necessary background checks can be carried out.
 
 Accepted identity documents are:
 
@@ -54,9 +54,9 @@ Accepted identity documents are:
 
 Please take notice of the following:
 
-1. Attendees who do not submit all the required information within the given deadline will not be authorized to attend the tour.
-2. Final authorization is dependent on successful background checks.
-3. The MIAAT reserves the full right to reject any technical tour registration request.
+1. **Attendees who do not submit all the required information within the given deadline will not be authorized to attend the tour.**
+2. **Final authorization is dependent on successful background checks.**
+3. **The MIAAT reserves the full right to reject any technical tour registration request.**
 
 #### Technical Tour Additional Information&#x20;
 

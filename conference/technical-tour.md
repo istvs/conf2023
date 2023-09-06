@@ -43,7 +43,7 @@ The tour will include a short presentation, visiting outdoor laboratories, and a
 
 _Registered conference attendees:_ the cost to attend the technical tour is already **included** in the conference registration fee.
 
-_Registered accompanying guests_: must book the tour **separately** (see details in [**Registration**](technical-tour.md#registration-details))
+_Registered accompanying guests_: must book the tour **separately** (see details in [**Registration**](registration.md))
 
 In either case, not later that **Friday, 15 September 2023**, you must submit the dedicated **registration form** (below), uploading a scan of a valid **identity document**, so that the necessary background checks can be carried out.
 

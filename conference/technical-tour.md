@@ -41,13 +41,22 @@ The tour will include a short presentation, visiting outdoor laboratories, and a
 
 ### Registration details
 
-For registered conference attendees, the cost to attend the technical tour is included in your registration fee. However, you must submit a scanned passport or identity card (for EU countries citizens) together with the Technical Tour Registration form which includes all the required personal information to conduct the necessary background check to receive authorization to attend.&#x20;
+_Registered conference attendees:_ the cost to attend the technical tour is already **included** in the conference registration fee.
 
-**Please take notice of the submission deadlines for the technical tour registration. Attendees who do not submit all required information on time will not be authorized to attend the tour, and final authorization is subject to successful background checks. The MIAAT reserves the right to reject and decline visitor requests.**
+_Registered accompanying guests_: must book the tour separately (see details in [**Registration**](technical-tour.md#registration-details))
 
-1. _Foreign Nationals (Non-Polish citizens)_ must submit their technical tour registration information together with scanned passport or Identity Card—only for European Union countries citizens, not later than 15 September 2023 and they must also be a registered conference attendee at the time of submission.
-2. _Poland‘s citizens_ must submit their technical tour registration information together with scanned Identity Card not later than 15 September 2023 and they must also be a registered conference attendee at the time of submission.
-3. _Accompanying guests_ to the conference attendees are also allowed to join the technical tour, providing they also submit their own technical tour registration form together with scanned passport or ID-card.&#x20;
+In either case, not later that Friday, 15 September 2023, you must submit the dedicated registration form (below), uploading a scan of a valid identity document, so that the necessary background checks can be carried out.
+
+Accepted identity documents are:
+
+1. Polish and EU citizens: National Identity Card or Passport.
+2. Non-EU citizens: Passport.
+
+Please take notice of the following:
+
+1. Attendees who do not submit all the required information within the given deadline will not be authorized to attend the tour.
+2. Final authorization is dependent on successful background checks.
+3. The MIAAT reserves the full right to reject any technical tour registration request.
 
 #### Technical Tour Additional Information&#x20;
 

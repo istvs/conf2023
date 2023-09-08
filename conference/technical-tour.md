@@ -32,8 +32,13 @@ The tour will include a short presentation, visiting outdoor laboratories, and a
 ### Schedule for October 13, 2023
 
 7.30 Departure from Lublin\
-10.00 [MIAAT Sulejówek](https://witpis.pl/english-2/witpis-home-cloned/)\
-13.00 Refreshments\
+10.00 Arrival at [MIAAT Sulejówek](https://witpis.pl/english-2/witpis-home-cloned/)\
+10.15 Welcome by MIAAT officer and a short presentation of the programme\
+10.20 Presentation of the Institute (indoor)\
+10.35 Presentation of the laboratories (outdoor/indoor, talk to test engineers/researchers)\
+11.30 Test-show of military vehicles: Jelcz, Tareo, Rosomak (outdoor, in action)\
+13.00 Refreshment (Military pea soup + coffee/tea)\
+13.30 End and farewell to the participants of the trip\
 14.00 Departing from Sulejówek\
 15.30 [Kazimierz Dolny](https://www.kazimierz-dolny.pl/), lunch in a restaurant\
 16.00 Visiting Kazimierz Dolny\

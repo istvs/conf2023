@@ -43,7 +43,15 @@ The conference includes the following thematic tracks:
 As in previous years, the conference submission platform is [EasyChair](https://easychair.org/conferences/?conf=istvs2023). If you’ve participated in a recent ISTVS conference, you will be able to log in with your existing account. If you’re new to ISTVS conferences, use the _Create an account_ link on the login page to get started. \
 **Access here:** [**https://easychair.org/conferences/?conf=istvs2023**](https://easychair.org/conferences/?conf=istvs2023)
 
-<figure><img src="../.gitbook/assets/Xnapper-2023-02-13-15.05.04-9165290C-0EAB-4BE2-AB6D-7CCBF315C5BD.png" alt=""><figcaption><p>Submissions login page for ISTVS 2023</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Xnapper-2023-02-13-15.05.04-9165290C-0EAB-4BE2-AB6D-7CCBF315C5BD.png" alt=""><figcaption><p>RrSubmissions login page for ISTVS 2023</p></figcaption></figure>
+
+### Copyright Assignment Form
+
+Copyright assignment form is intended for original material submitted to conferences of the International Society for Terrain-Vehicle Systems (ISTVS) and must accompany any such material in order to be published by the ISTVS. Before publication of your paper in conference proceedings, the ISTVS must receive a completed and signed copy of this form sent via email to the conference chair.
+
+{% file src="../.gitbook/assets/ISTVS Copyright Assignment Form_2023 (1).pdf" %}
+ISTVS Copyright Assigment Form 2023.pdf
+{% endfile %}
 
 ### **Templates**
 

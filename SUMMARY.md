@@ -8,6 +8,7 @@
 * [Preconference Professional Short Course](program/preconference-professional-short-course/README.md)
   * [Elements of Planetary Rover Design](program/preconference-professional-short-course/elements-of-planetary-rover-design.md)
 * [Student projects](program/student-projects.md)
+* [Lublin Young Volunteers Program](program/lublin-young-volunteers-program.md)
 
 ## Conference
 

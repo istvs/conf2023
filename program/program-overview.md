@@ -282,9 +282,19 @@ _A novel flexible all-metal wheel for planetary exploration_
 
 7.30 | Departure
 
-10.00 | [WITPIS Sulejówek](https://www.witpis.eu/pl/)
+10.00 | Arrival at [WITPIS Sulejówek](https://www.witpis.eu/pl/)
 
-13.00 | Refreshments
+10.15 | Welcome by MIAAT officer and a short presentation of the programme
+
+10.20 | Presentation of the Institute (indoor)
+
+10.35 | Presentation of the laboratories (outdoor/indoor, talk to test engineers/researchers)
+
+11.30 | Test-show of military vehicles: Jelcz, Tareo, Rosomak (outdoor, in action)
+
+13.00 | Refreshments (Military pea soup + coffee/tea)
+
+13.30 | End and farewell to the participants of the trip
 
 14.00 | Departing from Sulejówek
 

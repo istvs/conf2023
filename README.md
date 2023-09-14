@@ -7,8 +7,8 @@ coverY: 0
 # 16th European-African Regional Conference of the ISTVS
 
 {% hint style="success" %}
-_Fri 2023-09-08 update_\
-Copyright Assigment Form posted [here](conference/call-for-papers.md#copyright-assignment-form)
+_Thu 2023-09-14 update_\
+Check out parallel session schedule [here](program/program-overview.md)
 {% endhint %}
 
 The conference is an opportunity to present and disseminate the latest scientific and technological achievements in the field of vehicle-terrain systems.
@@ -125,6 +125,11 @@ A honorary patronage of:
 <figure><img src=".gitbook/assets/01_znak_podstawowy_kolor_biale_tlo.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/Politechnika logo.PNG" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+_Fri 2023-09-08 update_\
+Copyright Assigment Form posted [here](conference/call-for-papers.md#copyright-assignment-form)
+{% endhint %}
 
 {% hint style="success" %}
 _Thu 2023-08-31 update_\

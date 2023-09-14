@@ -88,6 +88,7 @@ Leszek Gardyński\
 Mateusz Klepka\
 Michał Kuszneruk\
 Rafał Longwic\
+Aleksandra Tatarynow\
 Dawid Tatarynow\
 Paweł Tomiło\
 Gracjana Woźniak-Borawska

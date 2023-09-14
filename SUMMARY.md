@@ -57,7 +57,7 @@
   * [7523 / Assessing performance of light wheeled vehicles on GRC-1 using 3D scanned footprint...](submissions/papers/7523.md)
   * [7577 / Implementation of moving loads on ice in NRMM](submissions/papers/7577.md)
   * [8151 / Study on estimation of traveling states using strain information on chassis of lunar and ...](submissions/papers/8151.md)
-  * [8254 / Initial steps towards characterization of the new US Army Cold Weather All-Terrain Vehicle...](submissions/papers/8254.md)
+  * [8254 / Initial steps towards characterizationof a new military cold weather all-terrainvehicle...](submissions/papers/8254.md)
   * [8672 / Trajectory optimization for vegetation override in off-road driving](submissions/papers/8672.md)
   * [9268 / Experiments of singkage characters of wire mesh wheel under different slip ratio](submissions/papers/9268.md)
   * [9992 / Soil shear strength values obtained from its colour](submissions/papers/9992.md)

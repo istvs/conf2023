@@ -6,10 +6,6 @@ coverY: 0
 
 # Overview
 
-##
-
-##
-
 ## Preconference | 10. October 2023
 
 10.00 – 15.00 | [Pre-Conference Professional Short Course](program-overview.md#preconference-or-10.-october-2023), Room M107, R302

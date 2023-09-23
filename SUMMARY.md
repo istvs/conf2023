@@ -32,7 +32,7 @@
   * [1638 / Analysis of tire characteristics on road surface with volcanic ash fall](submissions/papers/1638.md)
   * [1805 / Accelerating graph networks for real-time physics simulations](submissions/papers/1805.md)
   * [2145 / Obstacle performance and wheel failure test analysis of Zhurong rover](submissions/papers/2145.md)
-  * [2177 / Effects of road wheel load, driving speed and track slip upon stress state in sandy...](submissions/papers/2145-1.md)
+  * [2177 / Effects of road wheel load, driving speed and track slip upon stress state in sandy...](submissions/papers/2177.md)
   * [2437 / Improving predictive control methods on off-road vehicles with realistic steering preview...](submissions/papers/2437.md)
   * [2765 / Obstacle detection vision system enabling autonomous mounding on clearcuts](submissions/papers/2765.md)
   * [2801 / In Situ Soil Property Estimation for Autonomous Earthmoving Using Physics- Infused Neural...](submissions/papers/2801.md)

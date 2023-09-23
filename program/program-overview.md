@@ -34,7 +34,7 @@ _Implications from the perspective of terramechanics_
 
 {% tabs %}
 {% tab title="Autonomous and robotic systems I" %}
-**Chair: Dr. Lutz Richter**
+**Chair: Dr Lutz Richter**
 
 **Room: M107**
 
@@ -141,10 +141,12 @@ _Implications from the perspective of terramechanics_
 ## Conference Day 2 | 12. October 2023
 
 9.00 | Plenary session, Auditorium A1\
-**Keynote: Dr. Vassilios Papantoniou, Hellenic Technology of Robotics, Greece**\
+**Keynote: Mr. Stelios Skevakis, Hellenic Technology of Robotics, Greece**\
 _A novel flexible all-metal wheel for planetary exploration_
 
-10.00 | Refreshments
+9.45 | Plenary session, Auditorium A1\
+**Keynote: Dr Andrzej Selenta, Warsaw University of Technology, Poland**\
+_The Bekker Project_
 
 10.30 | Parallel sessions — 3 tracks — Auditorium M107/CT302/R302
 
@@ -240,7 +242,7 @@ _A novel flexible all-metal wheel for planetary exploration_
 
 {% tabs %}
 {% tab title="Soil compaction II" %}
-**Chair: Dr. Loraine ten Damme**
+**Chair: Dr Loraine ten Damme**
 
 **Room: M107**
 

@@ -61,7 +61,7 @@
   * [8151 / Study on estimation of traveling states using strain information on chassis of lunar and ...](submissions/papers/8151.md)
   * [8254 / Initial steps towards characterization of a new military cold weather all-terrain vehicle...](submissions/papers/8254.md)
   * [8672 / Trajectory optimization for vegetation override in off-road driving](submissions/papers/8672.md)
-  * [9268 / Experiments of singkage characters of wire mesh wheel under different slip ratio](submissions/papers/9268.md)
+  * [9268 / Experiments of sinkage characters of wire mesh wheel under different slip ratio](submissions/papers/9268.md)
   * [9992 / Soil shear strength values obtained from its colour](submissions/papers/9992.md)
 * [Abstract-only submissions](submissions/abstract-only.md)
 

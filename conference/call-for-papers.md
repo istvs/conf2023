@@ -7,8 +7,8 @@ coverY: 0
 # Call for Papers
 
 {% hint style="warning" %}
-_Fri 2023-09-08 update_\
-Copyright Assigment Form posed [below](call-for-papers.md#copyright-assignment-form)
+_Mon 2023-10-02 update_\
+Presentation Template posted [below](call-for-papers.md#presentation)
 {% endhint %}
 
 The 16th European-African Regional Conference of the ISTVS welcomes original and previously unpublished research and review papers describing results of research which are relevant to the conference topics and to terrain-vehicle systems.
@@ -72,6 +72,17 @@ _Provided for reference since live docs often open locally with broken formattin
 ### **Presentation**
 
 At least one author of a paper must attend the conference to present. If the full paper is not presented at the conference, it will not be included in the conference proceedings.
+
+Template for Presentation _// posted 2023-10-02_
+
+{% file src="../.gitbook/assets/ISTVS2023 Presentation Template.pptx" %}
+ISTVS 2023 Presentation Template .pptx
+{% endfile %}
+
+{% hint style="warning" %}
+_Fri 2023-09-08 update_\
+Copyright Assigment Form posted [below](call-for-papers.md#copyright-assignment-form)
+{% endhint %}
 
 {% hint style="warning" %}
 _Tue 2023-04-18 update_\

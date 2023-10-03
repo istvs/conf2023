@@ -75,13 +75,13 @@ At least one author of a paper must attend the conference to present. If the ful
 
 Template for Presentation _// posted 2023-10-02_
 
-{% file src="../.gitbook/assets/ISTVS2023 Presentation Template.pptx" %}
+{% file src="../.gitbook/assets/ISTVS2023 Presentation Template_v2.pptx" %}
 ISTVS 2023 Presentation Template .pptx
 {% endfile %}
 
 {% hint style="warning" %}
 _Fri 2023-09-08 update_\
-Copyright Assigment Form posted [below](call-for-papers.md#copyright-assignment-form)
+Copyright Assignment Form posted [below](call-for-papers.md#copyright-assignment-form)
 {% endhint %}
 
 {% hint style="warning" %}

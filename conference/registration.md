@@ -38,7 +38,21 @@ To register now online by credit card, use the registration choices below to cho
 
 [🎟 2023 Professional Short Course Registration | Non-Members EUR 150](https://buy.stripe.com/5kA8wL29tgRGb4IbIR)
 
-####
+#### **Registration of accompanying guests**
+
+The conference is open to accompanying guests. If you are bringing one or more guests, please select one of the following options during the registration process below.
+
+[_🎟_  Ice Breaker Welcome Event | EUR 50 per guest](https://book.stripe.com/6oE14j6pJeJyfkYdR0)\
+The always popular conference kick-off. Tuesday evening, October 10, at [Hotel Ibis Styles](https://ibislublin.pl/hotel/o-hotelu)
+
+_​🎟_  [Gala Dinner | EUR 65 per guest](https://book.stripe.com/28o9APaFZ30QdcQ8wH)\
+Closing event of the conference, Thursday evening, October 12, at [Hotel Ibis Styles](https://ibislublin.pl/hotel/o-hotelu)
+
+#### Additional open events
+
+_​🎟_  Technical tour t~~o~~ [~~the Military Institute of Armored and Automotive Technology (MIAAT)~~](https://witpis.pl/english-2/witpis-home-cloned/) ~~Sulejówek~~, Friday, October 13. Meals at the restaurant to [Kazimierz Dolny](https://www.kazimierz-dolny.pl/). Participation is free of charge. _2023-10-04: The tour arrangements are under reconsideration due to current regional conditions._
+
+_​🎟_  Practical demonstrations of student projects of Lublin University of Technology in the field of off-road and military vehicles will continue during the conference. Participation is free of charge.
 
 #### _**Early Bird Conference Registration before 31 July 2023**_
 

@@ -7,9 +7,13 @@ coverY: 0
 # Registration
 
 {% hint style="success" %}
-All participants and accompanying persons should register for the 16th European-African Regional Conference of the ISTVS.&#x20;
+_Wed 2023-10-04 update / Registration links for accompanying guests published:_
 
-Please read through the registration information to make your choices before you register at the bottom of the page.
+[_🎟_  Ice Breaker Welcome Event | EUR 50 per guest](https://book.stripe.com/6oE14j6pJeJyfkYdR0)\
+The always popular conference kick-off. Tuesday evening, October 10, at [Hotel Ibis Styles](https://ibislublin.pl/hotel/o-hotelu)
+
+_​🎟_  [Gala Dinner | EUR 65 per guest](https://book.stripe.com/28o9APaFZ30QdcQ8wH)\
+Closing event of the conference, Thursday evening, October 12, at [Hotel Ibis Styles](https://ibislublin.pl/hotel/o-hotelu)
 {% endhint %}
 
 {% hint style="success" %}
@@ -22,7 +26,7 @@ Please read through the registration information to make your choices before you
 
 #### Registration <a href="#registration-rates" id="registration-rates"></a>
 
-To register now online by credit card, use the registration choices below to choose the appropriate registration, then complete the checkout process on the payment page. ISTVS partners with Stripe for simplified billing. All prices are in EUR.
+To register now online by credit card, use the registration choices below to choose the appropriate registration, then complete the checkout process on the payment page. ISTVS partners with Stripe for simple and safe online payments. All prices are in EUR.
 
 #### **Conference Registration After 31 July 2023**
 

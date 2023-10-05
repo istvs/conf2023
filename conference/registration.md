@@ -54,7 +54,7 @@ Closing event of the conference, Thursday evening, October 12, at [Hotel Ibis St
 
 #### Additional open events
 
-_​🎟_  Technical tour t~~o~~ [~~the Military Institute of Armored and Automotive Technology (MIAAT)~~](https://witpis.pl/english-2/witpis-home-cloned/) ~~Sulejówek~~, Friday, October 13. Meals at the restaurant to [Kazimierz Dolny](https://www.kazimierz-dolny.pl/). Participation is free of charge. _2023-10-04: The tour arrangements are under reconsideration due to current regional conditions._
+_​🎟_  Technical tour to [the Military Institute of Armored and Automotive Technology (MIAAT)](https://witpis.pl/english-2/witpis-home-cloned/) Sulejówek, Friday, October 13. Meals at the restaurant to [Kazimierz Dolny](https://www.kazimierz-dolny.pl/). Participation is free of charge.
 
 _​🎟_  Practical demonstrations of student projects of Lublin University of Technology in the field of off-road and military vehicles will continue during the conference. Participation is free of charge.
 

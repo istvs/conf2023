@@ -70,3 +70,7 @@
 * [ISTVS](http://www.istvs.org)
 * [EasyChair](https://easychair.org/conferences/?conf=istvs2023)
 * [Journal of Terramechanics](https://www.sciencedirect.com/journal/journal-of-terramechanics)
+
+## Proceedings
+
+* [Editorial Board](proceedings/editorial-board.md)

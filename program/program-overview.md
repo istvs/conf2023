@@ -47,7 +47,7 @@ _Implications from the perspective of terramechanics_
 ## Conference Day 2 | 12. October 2023
 
 **9.00 | Plenary session, Auditorium A1**\
-Keynote: Mr. Stelios Skevakis, Hellenic Technology of Robotics, Greece\
+Keynote: Stelios Skevakis, Hellenic Technology of Robotics, Greece\
 _A novel flexible all-metal wheel for planetary exploration_
 
 **9.45 | Plenary session, Auditorium A1**\

@@ -65,12 +65,12 @@
   * [9992 / Soil shear strength values obtained from its colour](submissions/papers/9992.md)
 * [Abstract-only submissions](submissions/abstract-only.md)
 
+## Proceedings
+
+* [Editorial Board](proceedings/editorial-board.md)
+
 ## Quick links
 
 * [ISTVS](http://www.istvs.org)
 * [EasyChair](https://easychair.org/conferences/?conf=istvs2023)
 * [Journal of Terramechanics](https://www.sciencedirect.com/journal/journal-of-terramechanics)
-
-## Proceedings
-
-* [Editorial Board](proceedings/editorial-board.md)

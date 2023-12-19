@@ -19,7 +19,7 @@ layout:
 **Dariusz Błażejczak**, [West Pomeranian University of Technology](https://www.zut.edu.pl/EN/university.html), Poland\
 **Piotr Budzyński**, [Lublin University of Technology](https://www.pollub.pl/en/), Poland\
 **Schalk Els**, [University of Pretoria](https://www.up.ac.za/), South Africa\
-**Rámon Gonzalez**, [Robonity](https://www.robonity.com/index.html), Spain\
+**Rámon Gonzalez**, [robonity](https://www.robonity.com/index.html), Spain\
 **Bradley Hansen**, [US Army Corps of Engineers,](https://www.usace.army.mil) U.S.A.\
 **Rainer Horn**, [CAU Kiel](https://www.uni-kiel.de/en/), Germany\
 **Heidi R. Howard**, [US Army Corps of Engineers,](https://www.usace.army.mil) U.S.A.\

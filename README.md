@@ -109,7 +109,7 @@ Gracjana Woźniak-Borawska
 **Peter Kiss**, [Hungarian University of Agriculture and Life Sciences](https://www.en.uni-mate.hu), Hungary\
 **József Kövecses**, [McGill University](https://www.mcgill.ca), Canada\
 **George Mason**, [Mississippi State University](https://www.msstate.edu/), U.S.A.\
-**Massimo Martelli**, [National Research Council of Italy](https://www.cnr.it/en), Italy\
+**Massimo Martelli**, [National Research Council](https://www.cnr.it/en), Italy\
 **Lutz Richter**, [SoftServe, Inc.](https://www.softserveinc.com/en-us), Germany\
 **Dror Rubinstein**, [Ariel University](https://www.ariel.ac.il/wp/en/), Israel\
 **Vilas M. Salokhe**, [Kaziranga University](https://www.kzu.ac.in), India\

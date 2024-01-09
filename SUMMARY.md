@@ -68,6 +68,7 @@
 ## Proceedings
 
 * [Editorial Board](proceedings/editorial-board.md)
+* [Book of Proceedings](proceedings/book-of-proceedings.md)
 
 ## Quick links
 

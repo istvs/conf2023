@@ -2,7 +2,20 @@
 description: for the 16th European-African Regional Conference of the ISTVS
 cover: ../.gitbook/assets/5169471_14135eeb36_b_uprezzed@2x.jpg
 coverY: 0
-layout: editorial
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Statement on Publication Ethics and Malpractice
